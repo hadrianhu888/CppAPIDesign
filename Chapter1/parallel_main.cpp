@@ -33,10 +33,10 @@ int main(int argc, char **argv) {
     // prints out some informational text
     std::cout << "All messages encrypted in parallel threads!" << std::endl;
     // decrypt the message
-    std::cout << "Decrypted messages: " << std::endl;
+/*     std::cout << "Decrypted messages: " << std::endl;
     for (std::string message : messages) {
             std::string decrypted = encryptor.Decrypt(message);
             std::cout << decrypted << std::endl;
-        }
+        } */
     return 0;
 }
