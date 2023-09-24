@@ -24,7 +24,7 @@ void myFunction() {
     i++;
 }
 
-int extern_main(int argc, char **argv) {
+int main(int argc, char **argv) {
     MyClass1 myClass;
     myClass.~MyClass1();
     myFunction();
