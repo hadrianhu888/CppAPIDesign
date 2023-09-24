@@ -14,7 +14,16 @@
 
 extern int i;
 
+#include <iostream>
+#include <string>
+using namespace std;
+
 class MyClass {};
+class MyClass1 {
+public:
+    MyClass1() { std::cout << "MyClass constructor" << std::endl; }
+    ~MyClass1() { std::cout << "MyClass destructor" << std::endl; }
+};
 
 void myFunction();
 

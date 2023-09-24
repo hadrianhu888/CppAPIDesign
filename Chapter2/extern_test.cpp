@@ -23,11 +23,6 @@ void myFunction() {
     std::cout << "i = " << i << std::endl;
     i++;
 }
-class MyClass1 {
-    public:
-        MyClass1() { std::cout << "MyClass constructor" << std::endl; }
-        ~MyClass1() { std::cout << "MyClass destructor" << std::endl; }
-};
 
 int extern_main(int argc, char **argv) {
     MyClass1 myClass;
