@@ -1,59 +1,83 @@
-/**
- * @file urldownloader.cpp
- * @author your name (you@domain.com)
- * @brief
- * @version 0.1
- * @date 2023-09-24
- *
- * @copyright Copyright (c) 2023
- *
- */
 
-#include <iostream>
+#if defined(_WIN32) || defined(_WIN64)
+    #define WIN32_LEAN_AND_MEAN
+    #define _WINSOCKAPI_
+    #include <winsock2.h>
+    #include <ws2tcpip.h>
+    #include <windows.h>
+#elif defined(__CYGWIN__)
+    #include <sys/types.h>
+    #include <sys/socket.h>
+    #include <netinet/in.h>
+    #include <arpa/inet.h>
+    #include <unistd.h>
+#elif defined(__linux__) || defined(__APPLE__)
+    #include <sys/types.h>
+    #include <sys/socket.h>
+    #include <netinet/in.h>
+    #include <arpa/inet.h>
+    #include <unistd.h>
+#endif
+
+#include "URLDownloader.h"
 #include <string>
-#include <vector>
+#include <sstream>
 
-using namespace std;
+// ... rest of the code
 
-include_directories("E:/GitHubRepos/vcpkg/installed/x64-windows/include/curl")
 
-class URLDownloader {
-    private:
-        string url;
-        string data;
-        static size_t WriteCallback(void *contents, size_t size, size_t nmemb, void *userp);
-    public:
-        URLDownloader(string url);
-        string getData();
-        void download();
-};
+// rest of the code
 
-URLDownloader::URLDownloader(string url) { this->url = url; }
+URLDownloader::URLDownloader(std::string url) { this->url = url; }
 
-string URLDownloader::getData() { return data; }
+std::string URLDownloader::getData() { return data; }
 
 void URLDownloader::download() {
-    CURL *curl;
-    CURLcode res;
-    curl = curl_easy_init();
-    if (curl) {
-        curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
-        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteCallback);
-        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &data);
-        res = curl_easy_perform(curl);
-        curl_easy_cleanup(curl);
+    WSADATA wsaData;
+    SOCKET ConnectSocket = INVALID_SOCKET;
+    struct addrinfo *result = NULL, *ptr = NULL, hints;
+    
+    // Initialize Winsock
+    if (WSAStartup(MAKEWORD(2, 2), &wsaData) != 0) {
+        // Handle error
+        return;
     }
-}
+    
+    ZeroMemory(&hints, sizeof(hints));
+    hints.ai_family = AF_UNSPEC;
+    hints.ai_socktype = SOCK_STREAM;
+    hints.ai_protocol = IPPROTO_TCP;
+    
+    // Resolve the server address and port
+    if (getaddrinfo(url.c_str(), "80", &hints, &result) != 0) {
+        // Handle error
+        WSACleanup();
+        return;
+    }
+    
+    // Attempt to connect to an address until one succeeds
+    for (ptr = result; ptr != NULL; ptr = ptr->ai_next) {
+        ConnectSocket = socket(ptr->ai_family, ptr->ai_socktype, ptr->ai_protocol);
+        if (ConnectSocket == INVALID_SOCKET) {
+            continue;
+        }
+        
+        if (connect(ConnectSocket, ptr->ai_addr, (int)ptr->ai_addrlen) == SOCKET_ERROR) {
+            closesocket(ConnectSocket);
+            ConnectSocket = INVALID_SOCKET;
+            continue;
+        }
+        break;
+    }
+    
+    if (ConnectSocket == INVALID_SOCKET) {
+        // Handle error
+        freeaddrinfo(result);
+        WSACleanup();
+        return;
+    }
+    
+    freeaddrinfo(result);
 
-size_t URLDownloader::WriteCallback(void *contents, size_t size, size_t nmemb, void *userp) {
-    ((string *)userp)->append((char *)contents, size * nmemb);
-    return size * nmemb;
+    // ... (rest of the code remains unchanged)
 }
-
-int main(int argc, char **argv) {
-    URLDownloader downloader("https://www.google.com");
-    downloader.download();
-    cout << downloader.getData() << endl;
-    return 0;
-}
-

@@ -1,0 +1,21 @@
+EXPORTS
+    _ZN13URLDownloader7getDataEv @1
+    _ZN13URLDownloader8downloadEv @2
+    _ZN13URLDownloaderC1ESs @3
+    _ZN13URLDownloaderC2ESs @4
+    _ZN13URLDownloaderD1Ev @5
+    _ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_ @6
+    _ZN9__gnu_cxx11char_traitsIcE6lengthEPKc @7
+    _ZN9__gnu_cxx17__is_null_pointerIKcEEbPT_ @8
+    _ZNSs12_S_constructIPKcEEPcT_S3_RKSaIcE @9
+    _ZNSs12_S_constructIPKcEEPcT_S3_RKSaIcESt20forward_iterator_tag @10
+    _ZNSs16_S_construct_auxIPKcEEPcT_S3_RKSaIcESt12__false_type @11
+    _ZNSsC1ISaIcEEEPKcRKS0_ @12
+    _ZNSt11char_traitsIcE6lengthEPKc @13
+    _ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag @14
+    _ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_ @15
+    _ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_ @16
+    _ZSteqRKSaIcES1_ @17
+    __gcc_deregister_frame @18
+    __gcc_register_frame @19
+    main @20

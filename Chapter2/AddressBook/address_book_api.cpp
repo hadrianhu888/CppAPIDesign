@@ -1,43 +1,71 @@
 /**
  * @file address_book_api.cpp
  * @author your name (you@domain.com)
- * @brief
+ * @brief 
  * @version 0.1
- * @date 2023-09-24
- *
+ * @date 2023-09-29
+ * 
  * @copyright Copyright (c) 2023
- *
+ * 
  */
 
-#include "person_api.cpp"
-#include <vector>
-class AddressBook {
-  private:
-    std::vector<Person> people;
+#include <iostream>
+#include <string>
+#include "address_book_api.h"
 
-  public:
-    AddressBook(){};
-    void addPerson(Person person) { people.push_back(person); }
-    std::vector<Person> getPeople() { return people; }
-    void setPeople(std::vector<Person> people) { this->people = people; }
-};
+AddressBook::AddressBook(std::string name, int age) {
+    this->name = name;
+    this->age = age;
+    this->id = 1;
+    std::cout << "AddressBook: " << name << ", " << age << std::endl;
+    std::cout << "AddressBook: " << address << std::endl;
+    std::cout << "AddressBook: " << phone << std::endl;
+    std::cout << "AddressBook: " << email << std::endl;
+    std::cout << "AddressBook: " << id << std::endl;
+}
 
-int address_main() {
-    AddressBook book;
-    Person person1("John", 30);
-    person1.setAddress("123 Main St");
-    person1.setPhone("555-1234");
-    person1.setEmail("john@email.com");
-    book.addPerson(person1);
-    Person person2("Sara", 25);
-    person2.setAddress("456 Oak Ave");
-    person2.setPhone("555-5555");
-    person2.setEmail("sara@email.com");
-    book.addPerson(person2);
-    Person person3("Bill", 35);
-    person3.setAddress("789 Broadway");
-    person3.setPhone("555-9999");
-    person3.setEmail("bill@gmail.com");
-    return 0;
+std::string AddressBook::getName() {
+  return name;
+}
+
+int AddressBook::getAge() { return age; }
+
+std::string AddressBook::getAddress() { return address; }
+
+void AddressBook::setAddress(std::string address) { this->address = address; }
+
+std::string AddressBook::getPhone() { return phone; }
+
+void AddressBook::setPhone(std::string phone) { this->phone = phone; }
+
+std::string AddressBook::getEmail() { return email; }
+
+void AddressBook::setEmail(std::string email) { this->email = email; }
+
+int AddressBook::getId() { return id; }
+
+void AddressBook::setId(int id) { this->id = id; }
+
+void AddressBook::print() { std::cout << "AddressBook: " << name << ", " << age << std::endl; }
+
+void AddressBook::printPerson() {
+  std::cout << "AddressBook: " << name << ", " << age << std::endl;
+    std::cout << "AddressBook: " << address << std::endl;
+    std::cout << "AddressBook: " << phone << std::endl;
+    std::cout << "AddressBook: " << email << std::endl;
+}
+
+void AddressBook::printPerson(Person person) {
+  std::cout << "AddressBook: " << name << ", " << age << std::endl;
+    std::cout << "AddressBook: " << address << std::endl;
+    std::cout << "AddressBook: " << phone << std::endl;
+    std::cout << "AddressBook: " << email << std::endl;
+}
+
+void AddressBook::printPerson(Person *person) {
+  std::cout << "AddressBook: " << name << ", " << age << std::endl;
+    std::cout << "AddressBook: " << address << std::endl;
+    std::cout << "AddressBook: " << phone << std::endl;
+    std::cout << "AddressBook: " << email << std::endl;
 }
 
