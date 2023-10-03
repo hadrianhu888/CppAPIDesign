@@ -69,3 +69,71 @@ void AddressBook::printPerson(Person *person) {
     std::cout << "AddressBook: " << email << std::endl;
 }
 
+std::string AddressBook::getPersonName(Person person) {
+  return person.getName();
+}
+
+int AddressBook::getPersonAge(Person person) {
+  return person.getAge();
+}
+
+std::string AddressBook::getPersonAddress(Person person) {
+  return person.getAddress();
+}
+
+std::string AddressBook::getPersonPhone(Person person) {
+  return person.getPhone();
+}
+
+std::string AddressBook::getPersonEmail(Person person) {
+  return person.getEmail();
+}
+
+int AddressBook::getPersonId(Person person) {
+  return person.getId();
+}
+
+void AddressBook::setPersonName(Person person, std::string name) {
+  person.setName(name);
+}
+
+void AddressBook::setPersonAge(Person person, int age) {
+  person.setAge(age);
+}
+
+void AddressBook::setPersonAddress(Person person, std::string address) {
+  person.setAddress(address);
+}
+
+void AddressBook::setPersonPhone(Person person, std::string phone) {
+  person.setPhone(phone);
+}
+
+void AddressBook::setPersonEmail(Person person, std::string email) {
+  person.setEmail(email);
+}
+
+void AddressBook::setPersonId(Person person, int id) {
+  person.setId(id);
+}
+
+void AddressBook::printPersonName(Person person) {
+  std::cout << "AddressBook: " << person.getName() << std::endl;
+}
+
+void AddressBook::printPersonAge(Person person) {
+  std::cout << "AddressBook: " << person.getAge() << std::endl;
+}
+
+void AddressBook::printPersonAddress(Person person) {
+  std::cout << "AddressBook: " << person.getAddress() << std::endl;
+}
+
+void AddressBook::printPersonPhone(Person person) {
+  std::cout << "AddressBook: " << person.getPhone() << std::endl;
+}
+
+void AddressBook::printPersonEmail(Person person) {
+  std::cout << "AddressBook: " << person.getEmail() << std::endl;
+}
+
