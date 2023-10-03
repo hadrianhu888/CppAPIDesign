@@ -170,7 +170,6 @@ Linker script and memory map
                 0x0000000000000000                __dll_characteristics__ = 0x0
 LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
 LOAD /usr/lib/w32api/libws2_32.a
-LOAD /usr/lib/w32api/libws2_32.a
 LOAD main.o
 LOAD URLDownloader.o
 LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a

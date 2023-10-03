@@ -1,1 +1,5 @@
 .vscode
+/build
+.dist
+.idea
+build_log_*.txt
