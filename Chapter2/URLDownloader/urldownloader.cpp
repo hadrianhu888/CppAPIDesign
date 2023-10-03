@@ -23,10 +23,6 @@
 #include <string>
 #include <sstream>
 
-// ... rest of the code
-
-
-// rest of the code
 
 URLDownloader::URLDownloader(std::string url) { this->url = url; }
 
