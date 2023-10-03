@@ -1,0 +1,19 @@
+/ASAP2_VERSION 1.6.0
+
+/PROJECT coordinates
+    /MODULES
+        /MODULE coordinates_module
+            /CHARACTERISTICS
+                /CHARACTERISTIC x "X coordinate"
+                    /TYPE UBYTE
+                    /ADDRESS 0x0000 // Dummy address
+                /END_CHARACTERISTIC
+                
+                /CHARACTERISTIC y "Y coordinate"
+                    /TYPE UBYTE
+                    /ADDRESS 0x0001 // Dummy address
+                /END_CHARACTERISTIC
+            /END_CHARACTERISTICS
+        /END_MODULE
+    /END_MODULES
+/END_PROJECT

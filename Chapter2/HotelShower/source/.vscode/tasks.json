@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build hotel app",
+      "type": "shell",
+      "command": "g++",
+      "args": ["-g", "main.cpp", "hotelShower.cpp", "-o", "hotel_app"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

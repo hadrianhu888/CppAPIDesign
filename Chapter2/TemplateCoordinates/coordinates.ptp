@@ -1,0 +1,22 @@
+{
+    "test_cases": [
+        {
+            "name": "Test 1",
+            "description": "Test with integer coordinates",
+            "steps": [
+                "Initialize Coordinates<int> with x=1, y=2",
+                "Call print()",
+                "Expect output 'x: 1, y: 2'"
+            ]
+        },
+        {
+            "name": "Test 2",
+            "description": "Test with double coordinates",
+            "steps": [
+                "Initialize Coordinates<double> with x=1.0, y=2.0",
+                "Call print()",
+                "Expect output 'x: 1.0, y: 2.0'"
+            ]
+        }
+    ]
+}

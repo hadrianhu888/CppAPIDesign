@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<fmiModelDescription fmiVersion="2.0" modelName="Coordinates">
+    <ModelVariables>
+        <ScalarVariable name="x" valueReference="1001">
+            <Real start="0.0"/>
+        </ScalarVariable>
+        <ScalarVariable name="y" valueReference="1002">
+            <Real start="0.0"/>
+        </ScalarVariable>
+    </ModelVariables>
+    <!-- Additional FMI XML Elements -->
+</fmiModelDescription>
