@@ -1,0 +1,10 @@
+^E:\GITHUBREPOS\CPPAPIDESIGN\CHAPTER2\IDEALHOTELSHOWER\CMAKEFILES\B83074F338C97993545B724D7D4DCFD7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/GitHubRepos/CppAPIDesign/Chapter2/IdealHotelShower -BE:/GitHubRepos/CppAPIDesign/Chapter2/IdealHotelShower --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GitHubRepos/CppAPIDesign/Chapter2/IdealHotelShower/IdealHotelShower.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,3 +1,14 @@
 /.dist
 /.vscode
 *.exe
+/obj
+/build
+/bin
+/*.dll
+/*.vcxproj
+/*.filters
+/*.o
+/*.cmake
+*.txt
+*.exe
+*.sln

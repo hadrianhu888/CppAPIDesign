@@ -1,0 +1,144 @@
+EXPORTS
+    _ZN8MyObject14createInstanceEv @1
+    _ZN8MyObject3getESs @2
+    _ZN8MyObject3setESsSs @3
+    _ZN8MyObject5printEv @4
+    _ZN8MyObject5resetEv @5
+    _ZN8MyObjectC1ESs @6
+    _ZN8MyObjectC1Ev @7
+    _ZN8MyObjectC2ESs @8
+    _ZN8MyObjectC2Ev @9
+    _ZN8MyObjectD0Ev @10
+    _ZN8MyObjectD1Ev @11
+    _ZN8MyObjectD2Ev @12
+    _ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_ @13
+    _ZN9__gnu_cxx11char_traitsIcE4copyEPcPKcm @14
+    _ZN9__gnu_cxx11char_traitsIcE6lengthEPKc @15
+    _ZN9__gnu_cxx13new_allocatorISsE10deallocateEPSsm @16
+    _ZN9__gnu_cxx13new_allocatorISsEC2Ev @17
+    _ZN9__gnu_cxx13new_allocatorISt13_Rb_tree_nodeISt4pairIKSsSsEEE10deallocateEPS5_m @18
+    _ZN9__gnu_cxx13new_allocatorISt13_Rb_tree_nodeISt4pairIKSsSsEEEC2Ev @19
+    _ZN9__gnu_cxx13new_allocatorIcE10deallocateEPcm @20
+    _ZN9__gnu_cxx13new_allocatorIcE8allocateEmPKv @21
+    _ZN9__gnu_cxx16__aligned_membufISt4pairIKSsSsEE6_M_ptrEv @22
+    _ZN9__gnu_cxx16__aligned_membufISt4pairIKSsSsEE7_M_addrEv @23
+    _ZN9__gnu_cxx17__is_null_pointerIKcEEbPT_ @24
+    _ZNK9__gnu_cxx13new_allocatorIcE11_M_max_sizeEv @25
+    _ZNKSs13get_allocatorEv @26
+    _ZNKSs4_Rep12_M_is_leakedEv @27
+    _ZNKSs6_M_repEv @28
+    _ZNKSs7_M_dataEv @29
+    _ZNKSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE9_M_mbeginEv @30
+    _ZNSaISsEC2Ev @31
+    _ZNSaISsED2Ev @32
+    _ZNSaISt13_Rb_tree_nodeISt4pairIKSsSsEEEC2Ev @33
+    _ZNSaISt13_Rb_tree_nodeISt4pairIKSsSsEEED2Ev @34
+    _ZNSs12_Alloc_hiderC1EPcRKSaIcE @35
+    _ZNSs12_Alloc_hiderD1Ev @36
+    _ZNSs12_S_constructIPKcEEPcT_S3_RKSaIcE @37
+    _ZNSs12_S_constructIPKcEEPcT_S3_RKSaIcESt20forward_iterator_tag @38
+    _ZNSs12_S_empty_repEv @39
+    _ZNSs13_S_copy_charsEPcPKcS1_ @40
+    _ZNSs16_S_construct_auxIPKcEEPcT_S3_RKSaIcESt12__false_type @41
+    _ZNSs4_Rep10_M_destroyERKSaIcE @42
+    _ZNSs4_Rep10_M_disposeERKSaIcE @43
+    _ZNSs4_Rep10_M_refcopyEv @44
+    _ZNSs4_Rep10_M_refdataEv @45
+    _ZNSs4_Rep11_S_terminalE @46 DATA
+    _ZNSs4_Rep12_S_empty_repEv @47
+    _ZNSs4_Rep15_M_set_sharableEv @48
+    _ZNSs4_Rep26_M_set_length_and_sharableEm @49
+    _ZNSs4_Rep7_M_grabERKSaIcES2_ @50
+    _ZNSs4_Rep8_M_cloneERKSaIcEm @51
+    _ZNSs4_Rep9_S_createEmmRKSaIcE @52
+    _ZNSs6assignERKSs @53
+    _ZNSs7_M_copyEPcPKcm @54
+    _ZNSs7_M_dataEPc @55
+    _ZNSsC1Ev @56
+    _ZNSsC1ISaIcEEEPKcRKS0_ @57
+    _ZNSsD1Ev @58
+    _ZNSsaSERKSs @59
+    _ZNSt10shared_ptrI8MyObjectEC1IS0_vEEPT_ @60
+    _ZNSt11__copy_moveILb0ELb0ESt26random_access_iterator_tagE8__copy_mIPKcPcEET0_T_S7_S6_ @61
+    _ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIcEEPT_PKS3_S6_S4_ @62
+    _ZNSt11char_traitsIcE4copyEPcPKcm @63
+    _ZNSt11char_traitsIcE6assignERcRKc @64
+    _ZNSt11char_traitsIcE6lengthEPKc @65
+    _ZNSt12_Destroy_auxILb0EE9__destroyIPSsEEvT_S3_ @66
+    _ZNSt12_Vector_baseISsSaISsEE12_Vector_implC1Ev @67
+    _ZNSt12_Vector_baseISsSaISsEE12_Vector_implD1Ev @68
+    _ZNSt12_Vector_baseISsSaISsEE13_M_deallocateEPSsm @69
+    _ZNSt12_Vector_baseISsSaISsEE17_Vector_impl_dataC2Ev @70
+    _ZNSt12_Vector_baseISsSaISsEE19_M_get_Tp_allocatorEv @71
+    _ZNSt12_Vector_baseISsSaISsEEC2Ev @72
+    _ZNSt12_Vector_baseISsSaISsEED2Ev @73
+    _ZNSt12__shared_ptrI8MyObjectLN9__gnu_cxx12_Lock_policyE2EE31_M_enable_shared_from_this_withIS0_S0_EENSt9enable_ifIXntsrNS3_15__has_esft_baseIT0_vEE5valueEvE4typeEPT_ @74
+    _ZNSt12__shared_ptrI8MyObjectLN9__gnu_cxx12_Lock_policyE2EEC2IS0_vEEPT_ @75
+    _ZNSt13_Rb_tree_nodeISt4pairIKSsSsEE9_M_valptrEv @76
+    _ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1IP8MyObjectEET_ @77
+    _ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1IP8MyObjectEET_St17integral_constantIbLb0EE @78
+    _ZNSt15_Rb_tree_header8_M_resetEv @79
+    _ZNSt15_Rb_tree_headerC2Ev @80
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv @81
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE10_M_disposeEv @82
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE14_M_get_deleterERKSt9type_info @83
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EEC1ES1_ @84
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EED0Ev @85
+    _ZNSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EED1Ev @86
+    _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_destroyEv @87
+    _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EEC2Ev @88
+    _ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EED2Ev @89
+    _ZNSt16allocator_traitsISaISsEE10deallocateERS0_PSsm @90
+    _ZNSt16allocator_traitsISaISt13_Rb_tree_nodeISt4pairIKSsSsEEEE10deallocateERS5_PS4_m @91
+    _ZNSt16allocator_traitsISaISt13_Rb_tree_nodeISt4pairIKSsSsEEEE7destroyIS3_EEvRS5_PT_ @92
+    _ZNSt20_Rb_tree_key_compareISt4lessISsEEC2Ev @93
+    _ZNSt3mapISsSsSt4lessISsESaISt4pairIKSsSsEEEC1Ev @94
+    _ZNSt3mapISsSsSt4lessISsESaISt4pairIKSsSsEEED1Ev @95
+    _ZNSt4pairIKSsSsED1Ev @96
+    _ZNSt6vectorISsSaISsEEC1Ev @97
+    _ZNSt6vectorISsSaISsEED1Ev @98
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE11_M_put_nodeEPSt13_Rb_tree_nodeIS2_E @99
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE12_M_drop_nodeEPSt13_Rb_tree_nodeIS2_E @100
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE13_Rb_tree_implIS6_Lb1EEC1Ev @101
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE13_Rb_tree_implIS6_Lb1EED1Ev @102
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE15_M_destroy_nodeEPSt13_Rb_tree_nodeIS2_E @103
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE21_M_get_Node_allocatorEv @104
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE7_S_leftEPSt18_Rb_tree_node_base @105
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE8_M_beginEv @106
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE8_M_eraseEPSt13_Rb_tree_nodeIS2_E @107
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EE8_S_rightEPSt18_Rb_tree_node_base @108
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EEC1Ev @109
+    _ZNSt8_Rb_treeISsSt4pairIKSsSsESt10_Select1stIS2_ESt4lessISsESaIS2_EED1Ev @110
+    _ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag @111
+    _ZSt10destroy_atISsEvPT_ @112
+    _ZSt10destroy_atISt4pairIKSsSsEEvPT_ @113
+    _ZSt11__addressofISsEPT_RS0_ @114
+    _ZSt12__miter_baseIPKcET_S2_ @115
+    _ZSt12__niter_baseIPKcET_S2_ @116
+    _ZSt12__niter_baseIPcET_S1_ @117
+    _ZSt12__niter_wrapIPcET_RKS1_S1_ @118
+    _ZSt13__copy_move_aILb0EPKcPcET1_T0_S4_S3_ @119
+    _ZSt14__copy_move_a1ILb0EPKcPcET1_T0_S4_S3_ @120
+    _ZSt14__copy_move_a2ILb0EPKcPcET1_T0_S4_S3_ @121
+    _ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_ @122
+    _ZSt21is_constant_evaluatedv @123
+    _ZSt4copyIPKcPcET0_T_S4_S3_ @124
+    _ZSt8_DestroyIPSsEvT_S1_ @125
+    _ZSt8_DestroyIPSsSsEvT_S1_RSaIT0_E @126
+    _ZSt8_DestroyISsEvPT_ @127
+    _ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_ @128
+    _ZSteqRKSaIcES1_ @129
+    _ZTI8MyObject @130 DATA
+    _ZTISt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE @131 DATA
+    _ZTISt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE @132 DATA
+    _ZTISt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE @133 DATA
+    _ZTS8MyObject @134 DATA
+    _ZTSSt11_Mutex_baseILN9__gnu_cxx12_Lock_policyE2EE @135 DATA
+    _ZTSSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE @136 DATA
+    _ZTSSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE @137 DATA
+    _ZTV8MyObject @138 DATA
+    _ZTVSt15_Sp_counted_ptrIP8MyObjectLN9__gnu_cxx12_Lock_policyE2EE @139 DATA
+    _ZTVSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE @140 DATA
+    _ZnwmPv @141
+    __gcc_deregister_frame @142
+    __gcc_register_frame @143

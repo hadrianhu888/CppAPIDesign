@@ -9,3 +9,16 @@ build_log_*.txt
 *.def
 *.exp
 *.ilk
+log_*.txt
+*.so
+*.dll
+*.exe
+*.pdb
+*.o
+*.obj
+*.lib
+*.exp
+*.map
+*.dmp
+*.zip
+*.tar

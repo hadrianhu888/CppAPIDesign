@@ -1,0 +1,21 @@
+EXPORTS
+    _ZN16CheapHotelShower11SetHumidityEf @1
+    _ZN16CheapHotelShower13SetAirQualityEf @2
+    _ZN16CheapHotelShower14SetTemperatureEf @3
+    _ZN16CheapHotelShower15SetWaterQualityEf @4
+    _ZN16CheapHotelShower6SetCO2Ef @5
+    _ZN16CheapHotelShower8SetLightEf @6
+    _ZN16CheapHotelShower8SetNoiseEf @7
+    _ZN16CheapHotelShower8SetPowerEf @8
+    _ZN16CheapHotelShower8SetWaterEf @9
+    _ZNK16CheapHotelShower11GetHumidityEv @10
+    _ZNK16CheapHotelShower13GetAirQualityEv @11
+    _ZNK16CheapHotelShower14GetTemperatureEv @12
+    _ZNK16CheapHotelShower15GetWaterQualityEv @13
+    _ZNK16CheapHotelShower6GetCO2Ev @14
+    _ZNK16CheapHotelShower8GetLightEv @15
+    _ZNK16CheapHotelShower8GetNoiseEv @16
+    _ZNK16CheapHotelShower8GetPowerEv @17
+    _ZNK16CheapHotelShower8GetWaterEv @18
+    __gcc_deregister_frame @19
+    __gcc_register_frame @20
