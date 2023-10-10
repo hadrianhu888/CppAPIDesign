@@ -1,0 +1,1775 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+                              Object.o (__gxx_personality_seh0)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+                              Object.o (__cxa_rethrow)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+                              Object.o (__cxa_end_catch)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+                              Object.o (__cxa_begin_catch)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+                              Object.o (operator new(unsigned long))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+                              Object.o (operator delete(void*))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+                              Object.o (vtable for __cxxabiv1::__class_type_info)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+                              Object.o (std::basic_ostream<char, std::char_traits<char> >& std::operator<< <char, std::char_traits<char>, std::allocator<char> >(std::basic_ostream<char, std::char_traits<char> >&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+                              Object.o (std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+                              Object.o (std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+                              Object.o (std::cout)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+                              Object.o (std::__throw_bad_array_new_length())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+                              Object.o (std::__throw_length_error(char const*))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+                              Object.o (std::__throw_bad_alloc())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+                              Object.o (std::ios_base::Init::~Init())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+                              Object.o (std::ios_base::Init::Init())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+                              Object.o (std::string::operator=(std::string const&))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+                              Object.o (std::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+                              Object.o (std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string())
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+                              Object.o (std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+                              Object.o (std::ostream::operator<<(std::ostream& (*)(std::ostream&)))
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d000000.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o) (_head_cygstdc___6_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006682.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d000000.o) (cygstdc___6_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+                              Object.o (_Unwind_Resume)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000000.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o) (_head_cyggcc_s_seh_1_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000123.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000000.o) (cyggcc_s_seh_1_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o (__cxa_atexit)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000096.o)
+                              Object.o (__wrap__ZdlPv)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000100.o)
+                              Object.o (__wrap__Znwm)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000017.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o (__cxa_atexit)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000096.o)
+                              Object.o (__wrap__ZdlPv)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000100.o)
+                              Object.o (__wrap__Znwm)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+                              (_cygwin_dll_entry)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o) (DllMain)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000000.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o) (_head_cygwin1_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000381.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o) (cygwin_detach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001750.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000000.o) (cygwin1_dll_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000381.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o) (cygwin_detach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o) (cygwin_attach_dll)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000411.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o) (dll_dllcrt0)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000411.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o) (dll_dllcrt0)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o) (_cygwin_crt0_common)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain0)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain1)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain2)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_premain3)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (_pei386_runtime_relocator)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (__imp__impure_ptr)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000260.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (calloc)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000383.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_internal)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000587.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (free)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000917.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (malloc)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001029.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (posix_memalign)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001214.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (realloc)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000260.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (calloc)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000383.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (cygwin_internal)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000587.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (free)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000917.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (malloc)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d001029.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (posix_memalign)
+/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d001214.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (realloc)
+/usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (GetModuleHandleA)
+/usr/lib/w32api/libkernel32.a(libkernel32h.o)
+                              /usr/lib/w32api/libkernel32.a(libkernel32s00648.o) (_head_lib64_libkernel32_a)
+/usr/lib/w32api/libkernel32.a(libkernel32t.o)
+                              /usr/lib/w32api/libkernel32.a(libkernel32h.o) (__lib64_libkernel32_a_iname)
+/usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+                              /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o) (__DTOR_LIST__)
+
+There are no discarded input sections
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000549ef0000                __image_base__ = 0x549ef0000
+                0x0000000000000000                __dll__ = 0x0
+                0x0000000549ef0000                __ImageBase = 0x549ef0000
+                0x0000000000001000                __section_alignment__ = 0x1000
+                0x0000000000000200                __file_alignment__ = 0x200
+                0x0000000000000004                __major_os_version__ = 0x4
+                0x0000000000000000                __minor_os_version__ = 0x0
+                0x0000000000000000                __major_image_version__ = 0x0
+                0x0000000000000000                __minor_image_version__ = 0x0
+                0x0000000000000005                __major_subsystem_version__ = 0x5
+                0x0000000000000002                __minor_subsystem_version__ = 0x2
+                0x0000000000000003                __subsystem__ = 0x3
+                0x0000000000200000                __size_of_stack_reserve__ = 0x200000
+                0x0000000000001000                __size_of_stack_commit__ = 0x1000
+                0x0000000000100000                __size_of_heap_reserve__ = 0x100000
+                0x0000000000001000                __size_of_heap_commit__ = 0x1000
+                0x0000000000000000                __loader_flags__ = 0x0
+                0x0000000000000000                __dll_characteristics__ = 0x0
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+LOAD Object.o
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a
+LOAD /usr/lib/w32api/libadvapi32.a
+LOAD /usr/lib/w32api/libshell32.a
+LOAD /usr/lib/w32api/libuser32.a
+LOAD /usr/lib/w32api/libkernel32.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a
+LOAD /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+                0x0000000000000458                . = SIZEOF_HEADERS
+                0x0000000000001000                . = ALIGN (__section_alignment__)
+
+.text           0x0000000549ef1000     0x2800
+ *(SORT_NONE(.init))
+ *(.text)
+ .text          0x0000000549ef1000       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+                0x0000000549ef1000                __gcc_register_frame
+                0x0000000549ef1020                __gcc_deregister_frame
+ .text          0x0000000549ef1030      0x4a0 Object.o
+                0x0000000549ef103c                Object::Object()
+                0x0000000549ef103c                Object::Object()
+                0x0000000549ef10b6                Object::~Object()
+                0x0000000549ef10b6                Object::~Object()
+                0x0000000549ef1118                Object::~Object()
+                0x0000000549ef113e                Object::setObjectName(std::string)
+                0x0000000549ef116a                Object::getObjectName()
+                0x0000000549ef1198                Object::setParent(Object*)
+                0x0000000549ef11b4                Object::getParent()
+                0x0000000549ef11e2                Object::addChild(std::shared_ptr<Object>)
+                0x0000000549ef120e                Object::getChildren()
+                0x0000000549ef123c                Object::printChildren()
+                0x0000000549ef126e                Object::printObject()
+                0x0000000549ef12a0                Object::print()
+                0x0000000549ef12ce                Object::print(std::ostream&) const
+                0x0000000549ef1330                Object::printChildren(std::ostream&) const
+                0x0000000549ef13c2                Object::printObject(std::ostream&) const
+ .text          0x0000000549ef14d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+                0x0000000549ef14d0                __gxx_personality_seh0
+ .text          0x0000000549ef14d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+                0x0000000549ef14d8                __cxa_rethrow
+ .text          0x0000000549ef14e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+                0x0000000549ef14e0                __cxa_end_catch
+ .text          0x0000000549ef14e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+                0x0000000549ef14e8                __cxa_begin_catch
+ .text          0x0000000549ef14f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+                0x0000000549ef14f0                operator new(unsigned long)
+ .text          0x0000000549ef14f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+                0x0000000549ef14f8                operator delete(void*)
+ .text          0x0000000549ef1500        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+ .text          0x0000000549ef1500        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+                0x0000000549ef1500                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <char, std::char_traits<char>, std::allocator<char> >(std::basic_ostream<char, std::char_traits<char> >&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+ .text          0x0000000549ef1508        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+                0x0000000549ef1508                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)
+ .text          0x0000000549ef1510        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+                0x0000000549ef1510                std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&)
+ .text          0x0000000549ef1518        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+ .text          0x0000000549ef1518        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+                0x0000000549ef1518                std::__throw_bad_array_new_length()
+ .text          0x0000000549ef1520        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+                0x0000000549ef1520                std::__throw_length_error(char const*)
+ .text          0x0000000549ef1528        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+                0x0000000549ef1528                std::__throw_bad_alloc()
+ .text          0x0000000549ef1530        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+                0x0000000549ef1530                std::ios_base::Init::~Init()
+ .text          0x0000000549ef1538        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+                0x0000000549ef1538                std::ios_base::Init::Init()
+ .text          0x0000000549ef1540        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+                0x0000000549ef1540                std::string::operator=(std::string const&)
+ .text          0x0000000549ef1548        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+                0x0000000549ef1548                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()
+ .text          0x0000000549ef1550        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+                0x0000000549ef1550                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string()
+ .text          0x0000000549ef1558        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+                0x0000000549ef1558                std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&)
+ .text          0x0000000549ef1560        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+                0x0000000549ef1560                std::ostream::operator<<(std::ostream& (*)(std::ostream&))
+ .text          0x0000000549ef1568        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+                0x0000000549ef1568                _Unwind_Resume
+ .text          0x0000000549ef1570       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000017.o)
+                0x0000000549ef1570                __cxa_atexit
+ .text          0x0000000549ef1580       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000096.o)
+                0x0000000549ef1580                __wrap__ZdlPv
+ .text          0x0000000549ef1590       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000100.o)
+                0x0000000549ef1590                __wrap__Znwm
+ .text          0x0000000549ef15a0       0xe0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+                0x0000000549ef15c0                _cygwin_dll_entry
+ .text          0x0000000549ef1680       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+                0x0000000549ef1680                DllMain
+ .text          0x0000000549ef1690       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000381.o)
+                0x0000000549ef1690                cygwin_detach_dll
+ .text          0x0000000549ef16a0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+                0x0000000549ef16a0                cygwin_attach_dll
+ .text          0x0000000549ef16d0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000411.o)
+                0x0000000549ef16d0                dll_dllcrt0
+ .text          0x0000000549ef16e0      0x3b0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x0000000549ef16e0                _cygwin_crt0_common
+ .text          0x0000000549ef1a90       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+                0x0000000549ef1a90                cygwin_premain0
+ .text          0x0000000549ef1aa0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+                0x0000000549ef1aa0                cygwin_premain1
+ .text          0x0000000549ef1ab0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+                0x0000000549ef1ab0                cygwin_premain2
+ .text          0x0000000549ef1ac0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+                0x0000000549ef1ac0                cygwin_premain3
+ .text          0x0000000549ef1ad0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+                0x0000000549ef1ad0                _pei386_runtime_relocator
+ .text          0x0000000549ef1ae0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+ .text          0x0000000549ef1ae0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000260.o)
+                0x0000000549ef1ae0                calloc
+ .text          0x0000000549ef1af0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000383.o)
+                0x0000000549ef1af0                cygwin_internal
+ .text          0x0000000549ef1b00       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000587.o)
+                0x0000000549ef1b00                free
+ .text          0x0000000549ef1b10       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d000917.o)
+                0x0000000549ef1b10                malloc
+ .text          0x0000000549ef1b20       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d001029.o)
+                0x0000000549ef1b20                posix_memalign
+ .text          0x0000000549ef1b30       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(t-cygwin1_dll_d001214.o)
+                0x0000000549ef1b30                realloc
+ .text          0x0000000549ef1b40        0x8 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+                0x0000000549ef1b40                GetModuleHandleA
+ *fill*         0x0000000549ef1b48        0x8 
+ .text          0x0000000549ef1b50        0x0 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+ .text          0x0000000549ef1b50        0x0 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+ .text          0x0000000549ef1b50        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+ .text          0x0000000549ef1b50        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+ *(SORT_BY_NAME(.text$*))
+ .text$_ZN6ObjectC1ERKS_
+                0x0000000549ef1b50       0xf0 Object.o
+                0x0000000549ef1b50                Object::Object(Object const&)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE10deallocateEPS3_m
+                0x0000000549ef1c40       0x30 Object.o
+                0x0000000549ef1c40                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::deallocate(std::shared_ptr<Object>*, unsigned long)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE7destroyIS3_EEvPT_
+                0x0000000549ef1c70       0x30 Object.o
+                0x0000000549ef1c70                void __gnu_cxx::new_allocator<std::shared_ptr<Object> >::destroy<std::shared_ptr<Object> >(std::shared_ptr<Object>*)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8allocateEmPKv
+                0x0000000549ef1ca0       0x70 Object.o
+                0x0000000549ef1ca0                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::allocate(unsigned long, void const*)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JRKS3_EEEvPT_DpOT0_
+                0x0000000549ef1d10       0x50 Object.o
+                0x0000000549ef1d10                void __gnu_cxx::new_allocator<std::shared_ptr<Object> >::construct<std::shared_ptr<Object>, std::shared_ptr<Object> const&>(std::shared_ptr<Object>*, std::shared_ptr<Object> const&)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JS3_EEEvPT_DpOT0_
+                0x0000000549ef1d60       0x50 Object.o
+                0x0000000549ef1d60                void __gnu_cxx::new_allocator<std::shared_ptr<Object> >::construct<std::shared_ptr<Object>, std::shared_ptr<Object> >(std::shared_ptr<Object>*, std::shared_ptr<Object>&&)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2ERKS4_
+                0x0000000549ef1db0       0x10 Object.o
+                0x0000000549ef1db0                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::new_allocator(__gnu_cxx::new_allocator<std::shared_ptr<Object> > const&)
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef1dc0       0x10 Object.o
+                0x0000000549ef1dc0                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::new_allocator()
+ .text$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef1dd0       0x10 Object.o
+                0x0000000549ef1dd0                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::~new_allocator()
+ .text$_ZN9__gnu_cxx14__alloc_traitsISaISt10shared_ptrI6ObjectEES3_E17_S_select_on_copyERKS4_
+                0x0000000549ef1de0       0x30 Object.o
+                0x0000000549ef1de0                __gnu_cxx::__alloc_traits<std::allocator<std::shared_ptr<Object> >, std::shared_ptr<Object> >::_S_select_on_copy(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS5_
+                0x0000000549ef1e10       0x20 Object.o
+                0x0000000549ef1e10                __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::__normal_iterator(std::shared_ptr<Object> const* const&)
+ .text$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEppEv
+                0x0000000549ef1e30       0x20 Object.o
+                0x0000000549ef1e30                __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::operator++()
+ .text$_ZN9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS4_
+                0x0000000549ef1e50       0x20 Object.o
+                0x0000000549ef1e50                __gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::__normal_iterator(std::shared_ptr<Object>* const&)
+ .text$_ZN9__gnu_cxxmiIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSB_SE_
+                0x0000000549ef1e70       0x40 Object.o
+                0x0000000549ef1e70                __gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::difference_type __gnu_cxx::operator-<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >(__gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > > const&, __gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > > const&)
+ .text$_ZN9__gnu_cxxneIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEEbRKNS_17__normal_iteratorIT_T0_EESE_
+                0x0000000549ef1eb0       0x40 Object.o
+                0x0000000549ef1eb0                bool __gnu_cxx::operator!=<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >(__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > > const&, __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > > const&)
+ .text$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE11_M_max_sizeEv
+                0x0000000549ef1ef0       0x20 Object.o
+                0x0000000549ef1ef0                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::_M_max_size() const
+ .text$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8max_sizeEv
+                0x0000000549ef1f10       0x20 Object.o
+                0x0000000549ef1f10                __gnu_cxx::new_allocator<std::shared_ptr<Object> >::max_size() const
+ .text$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef1f30       0x10 Object.o
+                0x0000000549ef1f30                __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::base() const
+ .text$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEdeEv
+                0x0000000549ef1f40       0x20 Object.o
+                0x0000000549ef1f40                __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::operator*() const
+ .text$_ZNK9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef1f60       0x10 Object.o
+                0x0000000549ef1f60                __gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >::base() const
+ .text$_ZNKSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef1f70       0x10 Object.o
+                0x0000000549ef1f70                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_get_Tp_allocator() const
+ .text$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EE3getEv
+                0x0000000549ef1f80       0x20 Object.o
+                0x0000000549ef1f80                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::get() const
+ .text$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEcvbEv
+                0x0000000549ef1fa0       0x20 Object.o
+                0x0000000549ef1fa0                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::operator bool() const
+ .text$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEE4baseEv
+                0x0000000549ef1fc0       0x20 Object.o
+                0x0000000549ef1fc0                std::move_iterator<std::shared_ptr<Object>*>::base() const
+ .text$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEEdeEv
+                0x0000000549ef1fe0       0x20 Object.o
+                0x0000000549ef1fe0                std::move_iterator<std::shared_ptr<Object>*>::operator*() const
+ .text$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EE6_M_getEv
+                0x0000000549ef2000       0x20 Object.o
+                0x0000000549ef2000                std::__shared_ptr_access<Object, (__gnu_cxx::_Lock_policy)2, false, false>::_M_get() const
+ .text$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EEptEv
+                0x0000000549ef2020       0x20 Object.o
+                0x0000000549ef2020                std::__shared_ptr_access<Object, (__gnu_cxx::_Lock_policy)2, false, false>::operator->() const
+ .text$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE12_M_check_lenEmPKc
+                0x0000000549ef2040       0xc0 Object.o
+                0x0000000549ef2040                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_check_len(unsigned long, char const*) const
+ .text$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef2100       0x30 Object.o
+                0x0000000549ef2100                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::end() const
+ .text$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE4sizeEv
+                0x0000000549ef2130       0x30 Object.o
+                0x0000000549ef2130                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::size() const
+ .text$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef2160       0x30 Object.o
+                0x0000000549ef2160                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::begin() const
+ .text$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE8max_sizeEv
+                0x0000000549ef2190       0x30 Object.o
+                0x0000000549ef2190                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::max_size() const
+ .text$_ZNSaISt10shared_ptrI6ObjectEEC1ERKS2_
+                0x0000000549ef21c0       0x30 Object.o
+                0x0000000549ef21c0                std::allocator<std::shared_ptr<Object> >::allocator(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSaISt10shared_ptrI6ObjectEEC2ERKS2_
+                0x0000000549ef21f0       0x30 Object.o
+                0x0000000549ef21f0                std::allocator<std::shared_ptr<Object> >::allocator(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSaISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef2220       0x20 Object.o
+                0x0000000549ef2220                std::allocator<std::shared_ptr<Object> >::allocator()
+ .text$_ZNSaISt10shared_ptrI6ObjectEED1Ev
+                0x0000000549ef2240       0x20 Object.o
+                0x0000000549ef2240                std::allocator<std::shared_ptr<Object> >::~allocator()
+ .text$_ZNSaISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef2260       0x20 Object.o
+                0x0000000549ef2260                std::allocator<std::shared_ptr<Object> >::~allocator()
+ .text$_ZNSt10shared_ptrI6ObjectEC1EOS1_
+                0x0000000549ef2280       0x40 Object.o
+                0x0000000549ef2280                std::shared_ptr<Object>::shared_ptr(std::shared_ptr<Object>&&)
+ .text$_ZNSt10shared_ptrI6ObjectEC1ERKS1_
+                0x0000000549ef22c0       0x30 Object.o
+                0x0000000549ef22c0                std::shared_ptr<Object>::shared_ptr(std::shared_ptr<Object> const&)
+ .text$_ZNSt10shared_ptrI6ObjectEC1Ev
+                0x0000000549ef22f0       0x20 Object.o
+                0x0000000549ef22f0                std::shared_ptr<Object>::shared_ptr()
+ .text$_ZNSt10shared_ptrI6ObjectED1Ev
+                0x0000000549ef2310       0x20 Object.o
+                0x0000000549ef2310                std::shared_ptr<Object>::~shared_ptr()
+ .text$_ZNSt12_Destroy_auxILb0EE9__destroyIPSt10shared_ptrI6ObjectEEEvT_S6_
+                0x0000000549ef2330       0x40 Object.o
+                0x0000000549ef2330                void std::_Destroy_aux<false>::__destroy<std::shared_ptr<Object>*>(std::shared_ptr<Object>*, std::shared_ptr<Object>*)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE11_M_allocateEm
+                0x0000000549ef2370       0x40 Object.o
+                0x0000000549ef2370                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_allocate(unsigned long)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1ERKS3_
+                0x0000000549ef23b0       0x40 Object.o
+                0x0000000549ef23b0                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_impl::_Vector_impl(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1Ev
+                0x0000000549ef23f0       0x30 Object.o
+                0x0000000549ef23f0                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_impl::_Vector_impl()
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implD1Ev
+                0x0000000549ef2420       0x20 Object.o
+                0x0000000549ef2420                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_impl::~_Vector_impl()
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE13_M_deallocateEPS2_m
+                0x0000000549ef2440       0x40 Object.o
+                0x0000000549ef2440                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_deallocate(std::shared_ptr<Object>*, unsigned long)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_M_create_storageEm
+                0x0000000549ef2480       0x60 Object.o
+                0x0000000549ef2480                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_create_storage(unsigned long)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_Vector_impl_dataC2Ev
+                0x0000000549ef24e0       0x30 Object.o
+                0x0000000549ef24e0                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_impl_data::_Vector_impl_data()
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef2510       0x10 Object.o
+                0x0000000549ef2510                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_get_Tp_allocator()
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2EmRKS3_
+                0x0000000549ef2520       0x60 Object.o
+                0x0000000549ef2520                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_base(unsigned long, std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2Ev
+                0x0000000549ef2580       0x20 Object.o
+                0x0000000549ef2580                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_Vector_base()
+ .text$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EED2Ev
+                0x0000000549ef25a0       0x60 Object.o
+                0x0000000549ef25a0                std::_Vector_base<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::~_Vector_base()
+ .text$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2EOS3_
+                0x0000000549ef2600       0x60 Object.o
+                0x0000000549ef2600                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::__shared_ptr(std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>&&)
+ .text$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2ERKS3_
+                0x0000000549ef2660       0x40 Object.o
+                0x0000000549ef2660                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::__shared_ptr(std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2> const&)
+ .text$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2Ev
+                0x0000000549ef26a0       0x30 Object.o
+                0x0000000549ef26a0                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::__shared_ptr()
+ .text$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EED2Ev
+                0x0000000549ef26d0       0x30 Object.o
+                0x0000000549ef26d0                std::__shared_ptr<Object, (__gnu_cxx::_Lock_policy)2>::~__shared_ptr()
+ .text$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEC1ES3_
+                0x0000000549ef2700       0x30 Object.o
+                0x0000000549ef2700                std::move_iterator<std::shared_ptr<Object>*>::move_iterator(std::shared_ptr<Object>*)
+ .text$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEppEv
+                0x0000000549ef2730       0x20 Object.o
+                0x0000000549ef2730                std::move_iterator<std::shared_ptr<Object>*>::operator++()
+ .text$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EE7_M_swapERS2_
+                0x0000000549ef2750       0x40 Object.o
+                0x0000000549ef2750                std::__shared_count<(__gnu_cxx::_Lock_policy)2>::_M_swap(std::__shared_count<(__gnu_cxx::_Lock_policy)2>&)
+ .text$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1ERKS2_
+                0x0000000549ef2790       0x40 Object.o
+                0x0000000549ef2790                std::__shared_count<(__gnu_cxx::_Lock_policy)2>::__shared_count(std::__shared_count<(__gnu_cxx::_Lock_policy)2> const&)
+ .text$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1Ev
+                0x0000000549ef27d0       0x20 Object.o
+                0x0000000549ef27d0                std::__shared_count<(__gnu_cxx::_Lock_policy)2>::__shared_count()
+ .text$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EED1Ev
+                0x0000000549ef27f0       0x30 Object.o
+                0x0000000549ef27f0                std::__shared_count<(__gnu_cxx::_Lock_policy)2>::~__shared_count()
+ .text$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+                0x0000000549ef2820      0x130 Object.o
+                0x0000000549ef2820                std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_release()
+ .text$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE15_M_add_ref_copyEv
+                0x0000000549ef2950       0x70 Object.o
+                0x0000000549ef2950                std::_Sp_counted_base<(__gnu_cxx::_Lock_policy)2>::_M_add_ref_copy()
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE10deallocateERS3_PS2_m
+                0x0000000549ef29c0       0x40 Object.o
+                0x0000000549ef29c0                std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::deallocate(std::allocator<std::shared_ptr<Object> >&, std::shared_ptr<Object>*, unsigned long)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE37select_on_container_copy_constructionERKS3_
+                0x0000000549ef2a00       0x30 Object.o
+                0x0000000549ef2a00                std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::select_on_container_copy_construction(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE7destroyIS2_EEvRS3_PT_
+                0x0000000549ef2a30       0x30 Object.o
+                0x0000000549ef2a30                void std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::destroy<std::shared_ptr<Object> >(std::allocator<std::shared_ptr<Object> >&, std::shared_ptr<Object>*)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8allocateERS3_m
+                0x0000000549ef2a60       0x30 Object.o
+                0x0000000549ef2a60                std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::allocate(std::allocator<std::shared_ptr<Object> >&, unsigned long)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8max_sizeERKS3_
+                0x0000000549ef2a90       0x20 Object.o
+                0x0000000549ef2a90                std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::max_size(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JRKS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef2ab0       0x40 Object.o
+                0x0000000549ef2ab0                void std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::construct<std::shared_ptr<Object>, std::shared_ptr<Object> const&>(std::allocator<std::shared_ptr<Object> >&, std::shared_ptr<Object>*, std::shared_ptr<Object> const&)
+ .text$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef2af0       0x40 Object.o
+                0x0000000549ef2af0                void std::allocator_traits<std::allocator<std::shared_ptr<Object> > >::construct<std::shared_ptr<Object>, std::shared_ptr<Object> >(std::allocator<std::shared_ptr<Object> >&, std::shared_ptr<Object>*, std::shared_ptr<Object>&&)
+ .text$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS6_SaIS6_EEEEPS6_EET0_T_SF_SE_
+                0x0000000549ef2b30       0x80 Object.o
+                0x0000000549ef2b30                std::shared_ptr<Object>* std::__uninitialized_copy<false>::__uninit_copy<__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*>(__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*)
+ .text$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES6_EET0_T_S9_S8_
+                0x0000000549ef2bb0       0xb0 Object.o
+                0x0000000549ef2bb0                std::shared_ptr<Object>* std::__uninitialized_copy<false>::__uninit_copy<std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*>(std::move_iterator<std::shared_ptr<Object>*>, std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_max_sizeERKS3_
+                0x0000000549ef2c60       0x40 Object.o
+                0x0000000549ef2c60                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_S_max_size(std::allocator<std::shared_ptr<Object> > const&)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_relocateEPS2_S5_S5_RS3_
+                0x0000000549ef2ca0       0x40 Object.o
+                0x0000000549ef2ca0                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_S_relocate(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE14_S_do_relocateEPS2_S5_S5_RS3_St17integral_constantIbLb1EE
+                0x0000000549ef2ce0       0x40 Object.o
+                0x0000000549ef2ce0                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_S_do_relocate(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&, std::integral_constant<bool, true>)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE15_S_use_relocateEv
+                0x0000000549ef2d20       0x20 Object.o
+                0x0000000549ef2d20                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_S_use_relocate()
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE17_M_realloc_insertIJRKS2_EEEvN9__gnu_cxx17__normal_iteratorIPS2_S4_EEDpOT_
+                0x0000000549ef2d40      0x2d0 Object.o
+                0x0000000549ef2d40                void std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_M_realloc_insert<std::shared_ptr<Object> const&>(__gnu_cxx::__normal_iterator<std::shared_ptr<Object>*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object> const&)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE19_S_nothrow_relocateESt17integral_constantIbLb1EE
+                0x0000000549ef3010       0x10 Object.o
+                0x0000000549ef3010                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::_S_nothrow_relocate(std::integral_constant<bool, true>)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef3020       0x30 Object.o
+                0x0000000549ef3020                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::end()
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef3050       0x30 Object.o
+                0x0000000549ef3050                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::begin()
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE9push_backERKS2_
+                0x0000000549ef3080       0x80 Object.o
+                0x0000000549ef3080                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::push_back(std::shared_ptr<Object> const&)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1ERKS4_
+                0x0000000549ef3100       0xf0 Object.o
+                0x0000000549ef3100                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::vector(std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > const&)
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1Ev
+                0x0000000549ef31f0       0x20 Object.o
+                0x0000000549ef31f0                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::vector()
+ .text$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EED1Ev
+                0x0000000549ef3210       0x50 Object.o
+                0x0000000549ef3210                std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >::~vector()
+ .text$_ZSt10_ConstructISt10shared_ptrI6ObjectEJRKS2_EEvPT_DpOT0_
+                0x0000000549ef3260       0x50 Object.o
+                0x0000000549ef3260                void std::_Construct<std::shared_ptr<Object>, std::shared_ptr<Object> const&>(std::shared_ptr<Object>*, std::shared_ptr<Object> const&)
+ .text$_ZSt10_ConstructISt10shared_ptrI6ObjectEJS2_EEvPT_DpOT0_
+                0x0000000549ef32b0       0x50 Object.o
+                0x0000000549ef32b0                void std::_Construct<std::shared_ptr<Object>, std::shared_ptr<Object> >(std::shared_ptr<Object>*, std::shared_ptr<Object>&&)
+ .text$_ZSt11__addressofISt10shared_ptrI6ObjectEEPT_RS3_
+                0x0000000549ef3300       0x10 Object.o
+                0x0000000549ef3300                std::shared_ptr<Object>* std::__addressof<std::shared_ptr<Object> >(std::shared_ptr<Object>&)
+ .text$_ZSt12__niter_baseIPSt10shared_ptrI6ObjectEET_S4_
+                0x0000000549ef3310       0x10 Object.o
+                0x0000000549ef3310                std::shared_ptr<Object>* std::__niter_base<std::shared_ptr<Object>*>(std::shared_ptr<Object>*)
+ .text$_ZSt12__relocate_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef3320       0x60 Object.o
+                0x0000000549ef3320                std::shared_ptr<Object>* std::__relocate_a<std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> > >(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt14__relocate_a_1IPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef3380       0x70 Object.o
+                0x0000000549ef3380                std::shared_ptr<Object>* std::__relocate_a_1<std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> > >(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_ET0_T_SD_SC_
+                0x0000000549ef33f0       0x40 Object.o
+                0x0000000549ef33f0                std::shared_ptr<Object>* std::uninitialized_copy<__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*>(__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*)
+ .text$_ZSt18uninitialized_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_ET0_T_S7_S6_
+                0x0000000549ef3430       0x40 Object.o
+                0x0000000549ef3430                std::shared_ptr<Object>* std::uninitialized_copy<std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*>(std::move_iterator<std::shared_ptr<Object>*>, std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*)
+ .text$_ZSt19__relocate_object_aISt10shared_ptrI6ObjectES2_SaIS2_EEvPT_PT0_RT1_
+                0x0000000549ef3470       0x60 Object.o
+                0x0000000549ef3470                void std::__relocate_object_a<std::shared_ptr<Object>, std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > >(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_S4_ET0_T_SD_SC_RSaIT1_E
+                0x0000000549ef34d0       0x40 Object.o
+                0x0000000549ef34d0                std::shared_ptr<Object>* std::__uninitialized_copy_a<__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*, std::shared_ptr<Object> >(__gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, __gnu_cxx::__normal_iterator<std::shared_ptr<Object> const*, std::vector<std::shared_ptr<Object>, std::allocator<std::shared_ptr<Object> > > >, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt22__uninitialized_copy_aISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_S3_ET0_T_S7_S6_RSaIT1_E
+                0x0000000549ef3510       0x40 Object.o
+                0x0000000549ef3510                std::shared_ptr<Object>* std::__uninitialized_copy_a<std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*, std::shared_ptr<Object> >(std::move_iterator<std::shared_ptr<Object>*>, std::move_iterator<std::shared_ptr<Object>*>, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt32__make_move_if_noexcept_iteratorISt10shared_ptrI6ObjectESt13move_iteratorIPS2_EET0_PT_
+                0x0000000549ef3550       0x30 Object.o
+                0x0000000549ef3550                std::move_iterator<std::shared_ptr<Object>*> std::__make_move_if_noexcept_iterator<std::shared_ptr<Object>, std::move_iterator<std::shared_ptr<Object>*> >(std::shared_ptr<Object>*)
+ .text$_ZSt34__uninitialized_move_if_noexcept_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef3580       0x60 Object.o
+                0x0000000549ef3580                std::shared_ptr<Object>* std::__uninitialized_move_if_noexcept_a<std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> > >(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt3maxImERKT_S2_S2_
+                0x0000000549ef35e0       0x30 Object.o
+                0x0000000549ef35e0                unsigned long const& std::max<unsigned long>(unsigned long const&, unsigned long const&)
+ .text$_ZSt3minImERKT_S2_S2_
+                0x0000000549ef3610       0x30 Object.o
+                0x0000000549ef3610                unsigned long const& std::min<unsigned long>(unsigned long const&, unsigned long const&)
+ .text$_ZSt4moveIRPSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS6_
+                0x0000000549ef3640       0x10 Object.o
+                0x0000000549ef3640                std::remove_reference<std::shared_ptr<Object>*&>::type&& std::move<std::shared_ptr<Object>*&>(std::shared_ptr<Object>*&)
+ .text$_ZSt4moveIRSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS5_
+                0x0000000549ef3650       0x10 Object.o
+                0x0000000549ef3650                std::remove_reference<std::shared_ptr<Object>&>::type&& std::move<std::shared_ptr<Object>&>(std::shared_ptr<Object>&)
+ .text$_ZSt7forwardIRKSt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS5_E4typeE
+                0x0000000549ef3660       0x10 Object.o
+                0x0000000549ef3660                std::shared_ptr<Object> const& std::forward<std::shared_ptr<Object> const&>(std::remove_reference<std::shared_ptr<Object> const&>::type&)
+ .text$_ZSt7forwardISt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS3_E4typeE
+                0x0000000549ef3670       0x10 Object.o
+                0x0000000549ef3670                std::shared_ptr<Object>&& std::forward<std::shared_ptr<Object> >(std::remove_reference<std::shared_ptr<Object> >::type&)
+ .text$_ZSt8_DestroyIPSt10shared_ptrI6ObjectEEvT_S4_
+                0x0000000549ef3680       0x30 Object.o
+                0x0000000549ef3680                void std::_Destroy<std::shared_ptr<Object>*>(std::shared_ptr<Object>*, std::shared_ptr<Object>*)
+ .text$_ZSt8_DestroyIPSt10shared_ptrI6ObjectES2_EvT_S4_RSaIT0_E
+                0x0000000549ef36b0       0x30 Object.o
+                0x0000000549ef36b0                void std::_Destroy<std::shared_ptr<Object>*, std::shared_ptr<Object> >(std::shared_ptr<Object>*, std::shared_ptr<Object>*, std::allocator<std::shared_ptr<Object> >&)
+ .text$_ZSt8_DestroyISt10shared_ptrI6ObjectEEvPT_
+                0x0000000549ef36e0       0x20 Object.o
+                0x0000000549ef36e0                void std::_Destroy<std::shared_ptr<Object> >(std::shared_ptr<Object>*)
+ .text$_ZSteqIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef3700       0x40 Object.o
+                0x0000000549ef3700                bool std::operator==<std::shared_ptr<Object>*>(std::move_iterator<std::shared_ptr<Object>*> const&, std::move_iterator<std::shared_ptr<Object>*> const&)
+ .text$_ZStneIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef3740       0x30 Object.o
+                0x0000000549ef3740                bool std::operator!=<std::shared_ptr<Object>*>(std::move_iterator<std::shared_ptr<Object>*> const&, std::move_iterator<std::shared_ptr<Object>*> const&)
+ .text$_ZnwmPv  0x0000000549ef3770       0x20 Object.o
+                0x0000000549ef3770                operator new(unsigned long, void*)
+ *(.text.*)
+ .text.startup  0x0000000549ef3790       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x0000000549ef37a0                . = ALIGN (0x8)
+                0x0000000549ef37a0                ___CTOR_LIST__ = .
+                0x0000000549ef37a0                __CTOR_LIST__ = .
+                0x0000000549ef37a0        0x4 LONG 0xffffffffffffffff
+                0x0000000549ef37a4        0x4 LONG 0xffffffffffffffff
+ *(.ctors)
+ .ctors         0x0000000549ef37a8        0x8 Object.o
+ *(.ctor)
+ *(SORT_BY_NAME(.ctors.*))
+ .ctors.65535   0x0000000549ef37b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+                0x0000000549ef37b8        0x4 LONG 0x0
+                0x0000000549ef37bc        0x4 LONG 0x0
+                0x0000000549ef37c0                ___DTOR_LIST__ = .
+                0x0000000549ef37c0                __DTOR_LIST__ = .
+                0x0000000549ef37c0        0x4 LONG 0xffffffffffffffff
+                0x0000000549ef37c4        0x4 LONG 0xffffffffffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT_BY_NAME(.dtors.*))
+                0x0000000549ef37c8        0x4 LONG 0x0
+                0x0000000549ef37cc        0x4 LONG 0x0
+ *(SORT_NONE(.fini))
+ *(.gcc_exc)
+                [!provide]                        PROVIDE (etext = .)
+ *(.gcc_except_table)
+
+.data           0x0000000549ef4000      0x200
+                0x0000000549ef4000                __data_start__ = .
+ *(.data)
+ .data          0x0000000549ef4000       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+                0x0000000549ef4000                __dso_handle
+ .data          0x0000000549ef4010        0x0 Object.o
+ .data          0x0000000549ef4010        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .data          0x0000000549ef4010        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .data          0x0000000549ef4010        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ *fill*         0x0000000549ef4010       0x10 
+ .data          0x0000000549ef4020       0x40 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x0000000549ef4020                __cygwin_cxx_malloc
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+ .data          0x0000000549ef4060        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+ *(.data2)
+ *(SORT_BY_NAME(.data$*))
+ *(.jcr)
+                0x0000000549ef4060                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x0000000549ef5000      0x400
+ *(.rdata)
+ .rdata         0x0000000549ef5000       0x40 Object.o
+ .rdata         0x0000000549ef5040        0x8 Object_dll_ertr000001.o
+ *(SORT_BY_NAME(.rdata$*))
+ *fill*         0x0000000549ef5048        0x8 
+ .rdata$.refptr._ZNSt8ios_base4InitD1Ev
+                0x0000000549ef5050       0x10 Object.o
+                0x0000000549ef5050                .refptr._ZNSt8ios_base4InitD1Ev
+ .rdata$.refptr._ZSt4cout
+                0x0000000549ef5060       0x10 Object.o
+                0x0000000549ef5060                .refptr._ZSt4cout
+                0x0000000549ef5060                __fu1__ZSt4cout
+ .rdata$.refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+                0x0000000549ef5070       0x10 Object.o
+                0x0000000549ef5070                .refptr._ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+ .rdata$.refptr.__dso_handle
+                0x0000000549ef5080       0x10 Object.o
+                0x0000000549ef5080                .refptr.__dso_handle
+ .rdata$_ZTI6Object
+                0x0000000549ef5090       0x10 Object.o
+                0x0000000549ef5090                __fu0__ZTVN10__cxxabiv117__class_type_infoE
+                0x0000000549ef5090                typeinfo for Object
+ .rdata$_ZTS6Object
+                0x0000000549ef50a0       0x10 Object.o
+                0x0000000549ef50a0                typeinfo name for Object
+ .rdata$_ZTV6Object
+                0x0000000549ef50b0       0x40 Object.o
+                0x0000000549ef50b0                vtable for Object
+ .rdata$zzz     0x0000000549ef50f0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+ .rdata$zzz     0x0000000549ef5110       0x20 Object.o
+ .rdata$zzz     0x0000000549ef5130       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .rdata$zzz     0x0000000549ef5150       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .rdata$zzz     0x0000000549ef5170       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .rdata$zzz     0x0000000549ef5190       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .rdata$zzz     0x0000000549ef51b0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .rdata$zzz     0x0000000549ef51d0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .rdata$zzz     0x0000000549ef51f0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .rdata$zzz     0x0000000549ef5210       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .rdata$zzz     0x0000000549ef5230       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .rdata$zzz     0x0000000549ef5250       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+ .rdata$zzz     0x0000000549ef5270       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+                0x0000000549ef5290                . = ALIGN (0x4)
+                0x0000000549ef5290                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+ .rdata_runtime_pseudo_reloc
+                0x0000000549ef5290       0x18 Object_dll_rtr000000.o
+ .rdata_runtime_pseudo_reloc
+                0x0000000549ef52a8        0xc Object_dll_rtr000002.o
+                0x0000000549ef52b4                __rt_psrelocs_end = .
+                0x0000000000000024                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x0000000549ef52b4                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000549ef52b4                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000549ef5290                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x0000000549ef5290                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.buildid        0x0000000549ef6000      0x200
+ .buildid       0x0000000549ef6000       0x35 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+
+.eh_frame
+ *(.eh_frame*)
+
+.pdata          0x0000000549ef7000      0x800
+ *(.pdata*)
+ .pdata         0x0000000549ef7000       0x18 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+ .pdata$_ZnwmPv
+                0x0000000549ef7018        0xc Object.o
+ .pdata         0x0000000549ef7024       0xd8 Object.o
+ .pdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EED2Ev
+                0x0000000549ef70fc        0xc Object.o
+ .pdata$_ZNSt10shared_ptrI6ObjectED1Ev
+                0x0000000549ef7108        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implD1Ev
+                0x0000000549ef7114        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2Ev
+                0x0000000549ef7120        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1Ev
+                0x0000000549ef712c        0xc Object.o
+ .pdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2ERKS3_
+                0x0000000549ef7138        0xc Object.o
+ .pdata$_ZNSt10shared_ptrI6ObjectEC1ERKS1_
+                0x0000000549ef7144        0xc Object.o
+ .pdata$_ZN6ObjectC1ERKS_
+                0x0000000549ef7150        0xc Object.o
+ .pdata$_ZNSt10shared_ptrI6ObjectEC1Ev
+                0x0000000549ef715c        0xc Object.o
+ .pdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EED1Ev
+                0x0000000549ef7168        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1Ev
+                0x0000000549ef7174        0xc Object.o
+ .pdata$_ZNSaISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef7180        0xc Object.o
+ .pdata$_ZNSaISt10shared_ptrI6ObjectEED1Ev
+                0x0000000549ef718c        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EED2Ev
+                0x0000000549ef7198        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EED1Ev
+                0x0000000549ef71a4        0xc Object.o
+ .pdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1ERKS2_
+                0x0000000549ef71b0        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1ERKS4_
+                0x0000000549ef71bc        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE9push_backERKS2_
+                0x0000000549ef71c8        0xc Object.o
+ .pdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef71d4        0xc Object.o
+ .pdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef71e0        0xc Object.o
+ .pdata$_ZN9__gnu_cxxneIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEEbRKNS_17__normal_iteratorIT_T0_EESE_
+                0x0000000549ef71ec        0xc Object.o
+ .pdata$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEppEv
+                0x0000000549ef71f8        0xc Object.o
+ .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEdeEv
+                0x0000000549ef7204        0xc Object.o
+ .pdata$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EEptEv
+                0x0000000549ef7210        0xc Object.o
+ .pdata$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEcvbEv
+                0x0000000549ef721c        0xc Object.o
+ .pdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2Ev
+                0x0000000549ef7228        0xc Object.o
+ .pdata$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+                0x0000000549ef7234        0xc Object.o
+ .pdata$_ZNSaISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef7240        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_Vector_impl_dataC2Ev
+                0x0000000549ef724c        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef7258        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE13_M_deallocateEPS2_m
+                0x0000000549ef7264        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef7270        0xc Object.o
+ .pdata$_ZSt8_DestroyIPSt10shared_ptrI6ObjectES2_EvT_S4_RSaIT0_E
+                0x0000000549ef727c        0xc Object.o
+ .pdata$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE15_M_add_ref_copyEv
+                0x0000000549ef7288        0xc Object.o
+ .pdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE4sizeEv
+                0x0000000549ef7294        0xc Object.o
+ .pdata$_ZN9__gnu_cxx14__alloc_traitsISaISt10shared_ptrI6ObjectEES3_E17_S_select_on_copyERKS4_
+                0x0000000549ef72a0        0xc Object.o
+ .pdata$_ZNKSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef72ac        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2EmRKS3_
+                0x0000000549ef72b8        0xc Object.o
+ .pdata$_ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_S4_ET0_T_SD_SC_RSaIT1_E
+                0x0000000549ef72c4        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JRKS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef72d0        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef72dc        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE15_S_use_relocateEv
+                0x0000000549ef72e8        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE19_S_nothrow_relocateESt17integral_constantIbLb1EE
+                0x0000000549ef72f4        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE17_M_realloc_insertIJRKS2_EEEvN9__gnu_cxx17__normal_iteratorIPS2_S4_EEDpOT_
+                0x0000000549ef7300        0xc Object.o
+ .pdata$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS5_
+                0x0000000549ef730c        0xc Object.o
+ .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef7318        0xc Object.o
+ .pdata$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EE6_M_getEv
+                0x0000000549ef7324        0xc Object.o
+ .pdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1Ev
+                0x0000000549ef7330        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef733c        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE10deallocateERS3_PS2_m
+                0x0000000549ef7348        0xc Object.o
+ .pdata$_ZSt8_DestroyIPSt10shared_ptrI6ObjectEEvT_S4_
+                0x0000000549ef7354        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE37select_on_container_copy_constructionERKS3_
+                0x0000000549ef7360        0xc Object.o
+ .pdata$_ZNSaISt10shared_ptrI6ObjectEEC2ERKS2_
+                0x0000000549ef736c        0xc Object.o
+ .pdata$_ZNSaISt10shared_ptrI6ObjectEEC1ERKS2_
+                0x0000000549ef7378        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1ERKS3_
+                0x0000000549ef7384        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_M_create_storageEm
+                0x0000000549ef7390        0xc Object.o
+ .pdata$_ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_ET0_T_SD_SC_
+                0x0000000549ef739c        0xc Object.o
+ .pdata$_ZSt7forwardIRKSt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS5_E4typeE
+                0x0000000549ef73a8        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JRKS3_EEEvPT_DpOT0_
+                0x0000000549ef73b4        0xc Object.o
+ .pdata$_ZN9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS4_
+                0x0000000549ef73c0        0xc Object.o
+ .pdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE12_M_check_lenEmPKc
+                0x0000000549ef73cc        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef73d8        0xc Object.o
+ .pdata$_ZN9__gnu_cxxmiIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSB_SE_
+                0x0000000549ef73e4        0xc Object.o
+ .pdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE11_M_allocateEm
+                0x0000000549ef73f0        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_relocateEPS2_S5_S5_RS3_
+                0x0000000549ef73fc        0xc Object.o
+ .pdata$_ZNK9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef7408        0xc Object.o
+ .pdata$_ZSt34__uninitialized_move_if_noexcept_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef7414        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE7destroyIS2_EEvRS3_PT_
+                0x0000000549ef7420        0xc Object.o
+ .pdata$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EE3getEv
+                0x0000000549ef742c        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE10deallocateEPS3_m
+                0x0000000549ef7438        0xc Object.o
+ .pdata$_ZNSt12_Destroy_auxILb0EE9__destroyIPSt10shared_ptrI6ObjectEEEvT_S6_
+                0x0000000549ef7444        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2ERKS4_
+                0x0000000549ef7450        0xc Object.o
+ .pdata$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS6_SaIS6_EEEEPS6_EET0_T_SF_SE_
+                0x0000000549ef745c        0xc Object.o
+ .pdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE8max_sizeEv
+                0x0000000549ef7468        0xc Object.o
+ .pdata$_ZSt3maxImERKT_S2_S2_
+                0x0000000549ef7474        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8allocateERS3_m
+                0x0000000549ef7480        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE14_S_do_relocateEPS2_S5_S5_RS3_St17integral_constantIbLb1EE
+                0x0000000549ef748c        0xc Object.o
+ .pdata$_ZSt32__make_move_if_noexcept_iteratorISt10shared_ptrI6ObjectESt13move_iteratorIPS2_EET0_PT_
+                0x0000000549ef7498        0xc Object.o
+ .pdata$_ZSt22__uninitialized_copy_aISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_S3_ET0_T_S7_S6_RSaIT1_E
+                0x0000000549ef74a4        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE7destroyIS3_EEvPT_
+                0x0000000549ef74b0        0xc Object.o
+ .pdata$_ZSt11__addressofISt10shared_ptrI6ObjectEEPT_RS3_
+                0x0000000549ef74bc        0xc Object.o
+ .pdata$_ZSt8_DestroyISt10shared_ptrI6ObjectEEvPT_
+                0x0000000549ef74c8        0xc Object.o
+ .pdata$_ZSt10_ConstructISt10shared_ptrI6ObjectEJRKS2_EEvPT_DpOT0_
+                0x0000000549ef74d4        0xc Object.o
+ .pdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_max_sizeERKS3_
+                0x0000000549ef74e0        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8allocateEmPKv
+                0x0000000549ef74ec        0xc Object.o
+ .pdata$_ZSt12__relocate_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef74f8        0xc Object.o
+ .pdata$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEC1ES3_
+                0x0000000549ef7504        0xc Object.o
+ .pdata$_ZSt18uninitialized_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_ET0_T_S7_S6_
+                0x0000000549ef7510        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8max_sizeERKS3_
+                0x0000000549ef751c        0xc Object.o
+ .pdata$_ZSt3minImERKT_S2_S2_
+                0x0000000549ef7528        0xc Object.o
+ .pdata$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE11_M_max_sizeEv
+                0x0000000549ef7534        0xc Object.o
+ .pdata$_ZSt12__niter_baseIPSt10shared_ptrI6ObjectEET_S4_
+                0x0000000549ef7540        0xc Object.o
+ .pdata$_ZSt14__relocate_a_1IPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef754c        0xc Object.o
+ .pdata$_ZSt4moveIRPSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS6_
+                0x0000000549ef7558        0xc Object.o
+ .pdata$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES6_EET0_T_S9_S8_
+                0x0000000549ef7564        0xc Object.o
+ .pdata$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8max_sizeEv
+                0x0000000549ef7570        0xc Object.o
+ .pdata$_ZSt19__relocate_object_aISt10shared_ptrI6ObjectES2_SaIS2_EEvPT_PT0_RT1_
+                0x0000000549ef757c        0xc Object.o
+ .pdata$_ZStneIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef7588        0xc Object.o
+ .pdata$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEppEv
+                0x0000000549ef7594        0xc Object.o
+ .pdata$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEEdeEv
+                0x0000000549ef75a0        0xc Object.o
+ .pdata$_ZSt10_ConstructISt10shared_ptrI6ObjectEJS2_EEvPT_DpOT0_
+                0x0000000549ef75ac        0xc Object.o
+ .pdata$_ZSt4moveIRSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS5_
+                0x0000000549ef75b8        0xc Object.o
+ .pdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef75c4        0xc Object.o
+ .pdata$_ZSteqIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef75d0        0xc Object.o
+ .pdata$_ZSt7forwardISt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS3_E4typeE
+                0x0000000549ef75dc        0xc Object.o
+ .pdata$_ZNSt10shared_ptrI6ObjectEC1EOS1_
+                0x0000000549ef75e8        0xc Object.o
+ .pdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JS3_EEEvPT_DpOT0_
+                0x0000000549ef75f4        0xc Object.o
+ .pdata$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEE4baseEv
+                0x0000000549ef7600        0xc Object.o
+ .pdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2EOS3_
+                0x0000000549ef760c        0xc Object.o
+ .pdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EE7_M_swapERS2_
+                0x0000000549ef7618        0xc Object.o
+ .pdata         0x0000000549ef7624       0x18 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .pdata         0x0000000549ef763c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .pdata         0x0000000549ef7648        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .pdata         0x0000000549ef7654        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .pdata         0x0000000549ef7660        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .pdata         0x0000000549ef766c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .pdata         0x0000000549ef7678        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .pdata         0x0000000549ef7684        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .pdata         0x0000000549ef7690        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .pdata.startup
+                0x0000000549ef769c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+
+.xdata          0x0000000549ef8000      0x800
+ *(.xdata*)
+ .xdata         0x0000000549ef8000        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+ .xdata$_ZnwmPv
+                0x0000000549ef8008        0x8 Object.o
+ .xdata         0x0000000549ef8010       0xd0 Object.o
+ .xdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EED2Ev
+                0x0000000549ef80e0        0xc Object.o
+ .xdata$_ZNSt10shared_ptrI6ObjectED1Ev
+                0x0000000549ef80ec        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implD1Ev
+                0x0000000549ef80f8        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2Ev
+                0x0000000549ef8104        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1Ev
+                0x0000000549ef8110        0xc Object.o
+ .xdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2ERKS3_
+                0x0000000549ef811c        0xc Object.o
+ .xdata$_ZNSt10shared_ptrI6ObjectEC1ERKS1_
+                0x0000000549ef8128        0xc Object.o
+ .xdata$_ZN6ObjectC1ERKS_
+                0x0000000549ef8134       0x28 Object.o
+ .xdata$_ZNSt10shared_ptrI6ObjectEC1Ev
+                0x0000000549ef815c        0xc Object.o
+ .xdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EED1Ev
+                0x0000000549ef8168        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1Ev
+                0x0000000549ef8174        0xc Object.o
+ .xdata$_ZNSaISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef8180        0xc Object.o
+ .xdata$_ZNSaISt10shared_ptrI6ObjectEED1Ev
+                0x0000000549ef818c        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EED2Ev
+                0x0000000549ef8198       0x14 Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EED1Ev
+                0x0000000549ef81ac       0x14 Object.o
+ .xdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1ERKS2_
+                0x0000000549ef81c0        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EEC1ERKS4_
+                0x0000000549ef81cc       0x2c Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE9push_backERKS2_
+                0x0000000549ef81f8        0xc Object.o
+ .xdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef8204        0xc Object.o
+ .xdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef8210        0xc Object.o
+ .xdata$_ZN9__gnu_cxxneIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEEbRKNS_17__normal_iteratorIT_T0_EESE_
+                0x0000000549ef821c        0xc Object.o
+ .xdata$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEppEv
+                0x0000000549ef8228        0x8 Object.o
+ .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEdeEv
+                0x0000000549ef8230        0x8 Object.o
+ .xdata$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EEptEv
+                0x0000000549ef8238        0xc Object.o
+ .xdata$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEcvbEv
+                0x0000000549ef8244        0x8 Object.o
+ .xdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2Ev
+                0x0000000549ef824c        0xc Object.o
+ .xdata$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE10_M_releaseEv
+                0x0000000549ef8258        0xc Object.o
+ .xdata$_ZNSaISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef8264        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_Vector_impl_dataC2Ev
+                0x0000000549ef8270        0x8 Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEED2Ev
+                0x0000000549ef8278        0x8 Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE13_M_deallocateEPS2_m
+                0x0000000549ef8280        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef828c        0x8 Object.o
+ .xdata$_ZSt8_DestroyIPSt10shared_ptrI6ObjectES2_EvT_S4_RSaIT0_E
+                0x0000000549ef8294        0xc Object.o
+ .xdata$_ZNSt16_Sp_counted_baseILN9__gnu_cxx12_Lock_policyE2EE15_M_add_ref_copyEv
+                0x0000000549ef82a0        0xc Object.o
+ .xdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE4sizeEv
+                0x0000000549ef82ac        0x8 Object.o
+ .xdata$_ZN9__gnu_cxx14__alloc_traitsISaISt10shared_ptrI6ObjectEES3_E17_S_select_on_copyERKS4_
+                0x0000000549ef82b4        0xc Object.o
+ .xdata$_ZNKSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE19_M_get_Tp_allocatorEv
+                0x0000000549ef82c0        0x8 Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EEC2EmRKS3_
+                0x0000000549ef82c8       0x1c Object.o
+ .xdata$_ZSt22__uninitialized_copy_aIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_S4_ET0_T_SD_SC_RSaIT1_E
+                0x0000000549ef82e4        0xc Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JRKS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef82f0        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE3endEv
+                0x0000000549ef82fc        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE15_S_use_relocateEv
+                0x0000000549ef8308        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE19_S_nothrow_relocateESt17integral_constantIbLb1EE
+                0x0000000549ef8314        0x8 Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE17_M_realloc_insertIJRKS2_EEEvN9__gnu_cxx17__normal_iteratorIPS2_S4_EEDpOT_
+                0x0000000549ef831c       0x38 Object.o
+ .xdata$_ZN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS5_
+                0x0000000549ef8354        0x8 Object.o
+ .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef835c        0x8 Object.o
+ .xdata$_ZNKSt19__shared_ptr_accessI6ObjectLN9__gnu_cxx12_Lock_policyE2ELb0ELb0EE6_M_getEv
+                0x0000000549ef8364        0xc Object.o
+ .xdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EEC1Ev
+                0x0000000549ef8370        0x8 Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2Ev
+                0x0000000549ef8378        0x8 Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE10deallocateERS3_PS2_m
+                0x0000000549ef8380        0xc Object.o
+ .xdata$_ZSt8_DestroyIPSt10shared_ptrI6ObjectEEvT_S4_
+                0x0000000549ef838c        0xc Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE37select_on_container_copy_constructionERKS3_
+                0x0000000549ef8398        0xc Object.o
+ .xdata$_ZNSaISt10shared_ptrI6ObjectEEC2ERKS2_
+                0x0000000549ef83a4        0xc Object.o
+ .xdata$_ZNSaISt10shared_ptrI6ObjectEEC1ERKS2_
+                0x0000000549ef83b0        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE12_Vector_implC1ERKS3_
+                0x0000000549ef83bc        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE17_M_create_storageEm
+                0x0000000549ef83c8        0xc Object.o
+ .xdata$_ZSt18uninitialized_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS4_SaIS4_EEEEPS4_ET0_T_SD_SC_
+                0x0000000549ef83d4        0xc Object.o
+ .xdata$_ZSt7forwardIRKSt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS5_E4typeE
+                0x0000000549ef83e0        0x8 Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JRKS3_EEEvPT_DpOT0_
+                0x0000000549ef83e8        0xc Object.o
+ .xdata$_ZN9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEC1ERKS4_
+                0x0000000549ef83f4        0x8 Object.o
+ .xdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE12_M_check_lenEmPKc
+                0x0000000549ef83fc        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE5beginEv
+                0x0000000549ef8408        0xc Object.o
+ .xdata$_ZN9__gnu_cxxmiIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEEENS_17__normal_iteratorIT_T0_E15difference_typeERKSB_SE_
+                0x0000000549ef8414        0xc Object.o
+ .xdata$_ZNSt12_Vector_baseISt10shared_ptrI6ObjectESaIS2_EE11_M_allocateEm
+                0x0000000549ef8420        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_relocateEPS2_S5_S5_RS3_
+                0x0000000549ef842c        0xc Object.o
+ .xdata$_ZNK9__gnu_cxx17__normal_iteratorIPSt10shared_ptrI6ObjectESt6vectorIS3_SaIS3_EEE4baseEv
+                0x0000000549ef8438        0x8 Object.o
+ .xdata$_ZSt34__uninitialized_move_if_noexcept_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef8440        0xc Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE7destroyIS2_EEvRS3_PT_
+                0x0000000549ef844c        0xc Object.o
+ .xdata$_ZNKSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EE3getEv
+                0x0000000549ef8458        0x8 Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE10deallocateEPS3_m
+                0x0000000549ef8460        0xc Object.o
+ .xdata$_ZNSt12_Destroy_auxILb0EE9__destroyIPSt10shared_ptrI6ObjectEEEvT_S6_
+                0x0000000549ef846c        0xc Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEEC2ERKS4_
+                0x0000000549ef8478        0x8 Object.o
+ .xdata$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyIN9__gnu_cxx17__normal_iteratorIPKSt10shared_ptrI6ObjectESt6vectorIS6_SaIS6_EEEEPS6_EET0_T_SF_SE_
+                0x0000000549ef8480        0xc Object.o
+ .xdata$_ZNKSt6vectorISt10shared_ptrI6ObjectESaIS2_EE8max_sizeEv
+                0x0000000549ef848c        0xc Object.o
+ .xdata$_ZSt3maxImERKT_S2_S2_
+                0x0000000549ef8498        0x8 Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8allocateERS3_m
+                0x0000000549ef84a0        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE14_S_do_relocateEPS2_S5_S5_RS3_St17integral_constantIbLb1EE
+                0x0000000549ef84ac        0xc Object.o
+ .xdata$_ZSt32__make_move_if_noexcept_iteratorISt10shared_ptrI6ObjectESt13move_iteratorIPS2_EET0_PT_
+                0x0000000549ef84b8        0xc Object.o
+ .xdata$_ZSt22__uninitialized_copy_aISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_S3_ET0_T_S7_S6_RSaIT1_E
+                0x0000000549ef84c4        0xc Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE7destroyIS3_EEvPT_
+                0x0000000549ef84d0        0xc Object.o
+ .xdata$_ZSt11__addressofISt10shared_ptrI6ObjectEEPT_RS3_
+                0x0000000549ef84dc        0x8 Object.o
+ .xdata$_ZSt8_DestroyISt10shared_ptrI6ObjectEEvPT_
+                0x0000000549ef84e4        0xc Object.o
+ .xdata$_ZSt10_ConstructISt10shared_ptrI6ObjectEJRKS2_EEvPT_DpOT0_
+                0x0000000549ef84f0        0xc Object.o
+ .xdata$_ZNSt6vectorISt10shared_ptrI6ObjectESaIS2_EE11_S_max_sizeERKS3_
+                0x0000000549ef84fc        0xc Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8allocateEmPKv
+                0x0000000549ef8508        0xc Object.o
+ .xdata$_ZSt12__relocate_aIPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef8514       0x10 Object.o
+ .xdata$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEC1ES3_
+                0x0000000549ef8524        0xc Object.o
+ .xdata$_ZSt18uninitialized_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES4_ET0_T_S7_S6_
+                0x0000000549ef8530        0xc Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE8max_sizeERKS3_
+                0x0000000549ef853c        0xc Object.o
+ .xdata$_ZSt3minImERKT_S2_S2_
+                0x0000000549ef8548        0x8 Object.o
+ .xdata$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE11_M_max_sizeEv
+                0x0000000549ef8550        0x8 Object.o
+ .xdata$_ZSt12__niter_baseIPSt10shared_ptrI6ObjectEET_S4_
+                0x0000000549ef8558        0x8 Object.o
+ .xdata$_ZSt14__relocate_a_1IPSt10shared_ptrI6ObjectES3_SaIS2_EET0_T_S6_S5_RT1_
+                0x0000000549ef8560        0xc Object.o
+ .xdata$_ZSt4moveIRPSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS6_
+                0x0000000549ef856c        0x8 Object.o
+ .xdata$_ZNSt20__uninitialized_copyILb0EE13__uninit_copyISt13move_iteratorIPSt10shared_ptrI6ObjectEES6_EET0_T_S9_S8_
+                0x0000000549ef8574       0x2c Object.o
+ .xdata$_ZNK9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE8max_sizeEv
+                0x0000000549ef85a0        0xc Object.o
+ .xdata$_ZSt19__relocate_object_aISt10shared_ptrI6ObjectES2_SaIS2_EEvPT_PT0_RT1_
+                0x0000000549ef85ac        0xc Object.o
+ .xdata$_ZStneIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef85b8        0xc Object.o
+ .xdata$_ZNSt13move_iteratorIPSt10shared_ptrI6ObjectEEppEv
+                0x0000000549ef85c4        0x8 Object.o
+ .xdata$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEEdeEv
+                0x0000000549ef85cc        0x8 Object.o
+ .xdata$_ZSt10_ConstructISt10shared_ptrI6ObjectEJS2_EEvPT_DpOT0_
+                0x0000000549ef85d4        0xc Object.o
+ .xdata$_ZSt4moveIRSt10shared_ptrI6ObjectEEONSt16remove_referenceIT_E4typeEOS5_
+                0x0000000549ef85e0        0x8 Object.o
+ .xdata$_ZNSt16allocator_traitsISaISt10shared_ptrI6ObjectEEE9constructIS2_JS2_EEEvRS3_PT_DpOT0_
+                0x0000000549ef85e8        0xc Object.o
+ .xdata$_ZSteqIPSt10shared_ptrI6ObjectEEbRKSt13move_iteratorIT_ES8_
+                0x0000000549ef85f4        0xc Object.o
+ .xdata$_ZSt7forwardISt10shared_ptrI6ObjectEEOT_RNSt16remove_referenceIS3_E4typeE
+                0x0000000549ef8600        0x8 Object.o
+ .xdata$_ZNSt10shared_ptrI6ObjectEC1EOS1_
+                0x0000000549ef8608        0xc Object.o
+ .xdata$_ZN9__gnu_cxx13new_allocatorISt10shared_ptrI6ObjectEE9constructIS3_JS3_EEEvPT_DpOT0_
+                0x0000000549ef8614        0xc Object.o
+ .xdata$_ZNKSt13move_iteratorIPSt10shared_ptrI6ObjectEE4baseEv
+                0x0000000549ef8620        0x8 Object.o
+ .xdata$_ZNSt12__shared_ptrI6ObjectLN9__gnu_cxx12_Lock_policyE2EEC2EOS3_
+                0x0000000549ef8628        0xc Object.o
+ .xdata$_ZNSt14__shared_countILN9__gnu_cxx12_Lock_policyE2EE7_M_swapERS2_
+                0x0000000549ef8634        0xc Object.o
+ .xdata         0x0000000549ef8640        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .xdata         0x0000000549ef864c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .xdata         0x0000000549ef8650        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .xdata         0x0000000549ef865c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .xdata         0x0000000549ef8668        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .xdata         0x0000000549ef866c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .xdata         0x0000000549ef8670        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .xdata         0x0000000549ef8674        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .xdata         0x0000000549ef8678        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .xdata.startup
+                0x0000000549ef867c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+
+.bss            0x0000000549ef9000      0x1d0
+                0x0000000549ef9000                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000549ef9000        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/crtbeginS.o
+ .bss           0x0000000549ef9000       0x10 Object.o
+ .bss           0x0000000549ef9010       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+                0x0000000549ef9010                __dynamically_loaded
+ .bss           0x0000000549ef9040        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .bss           0x0000000549ef9040      0x160 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .bss           0x0000000549ef91a0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+                0x0000000549ef91a0                _fmode
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+ .bss           0x0000000549ef91b0        0x0 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+ .bss           0x0000000549ef91b0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+ .bss           0x0000000549ef91d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/crtend.o
+ *(COMMON)
+                0x0000000549ef91d0                __bss_end__ = .
+
+.edata          0x0000000549efa000     0x2600
+ *(.edata)
+ .edata         0x0000000549efa000     0x2491 dll stuff
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x0000000549efd000      0x800
+ SORT_BY_NAME(*)(.idata$2)
+ .idata$2       0x0000000549efd000       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000000.o)
+                0x0000000549efd000                _head_cygwin1_dll
+ .idata$2       0x0000000549efd014       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000000.o)
+                0x0000000549efd014                _head_cyggcc_s_seh_1_dll
+ .idata$2       0x0000000549efd028       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d000000.o)
+                0x0000000549efd028                _head_cygstdc___6_dll
+ .idata$2       0x0000000549efd03c       0x14 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+                0x0000000549efd03c                _head_lib64_libkernel32_a
+ SORT_BY_NAME(*)(.idata$3)
+                0x0000000549efd050        0x4 LONG 0x0
+                0x0000000549efd054        0x4 LONG 0x0
+                0x0000000549efd058        0x4 LONG 0x0
+                0x0000000549efd05c        0x4 LONG 0x0
+                0x0000000549efd060        0x4 LONG 0x0
+                0x0000000549efd068                . = ALIGN (0x8)
+ *fill*         0x0000000549efd064        0x4 
+ SORT_BY_NAME(*)(.idata$4)
+ .idata$4       0x0000000549efd068        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000000.o)
+ .idata$4       0x0000000549efd068        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o)
+ .idata$4       0x0000000549efd070        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000096.o)
+ .idata$4       0x0000000549efd078        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000100.o)
+ .idata$4       0x0000000549efd080        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+ .idata$4       0x0000000549efd088        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000260.o)
+ .idata$4       0x0000000549efd090        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000381.o)
+ .idata$4       0x0000000549efd098        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000383.o)
+ .idata$4       0x0000000549efd0a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000411.o)
+ .idata$4       0x0000000549efd0a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000587.o)
+ .idata$4       0x0000000549efd0b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000917.o)
+ .idata$4       0x0000000549efd0b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001029.o)
+ .idata$4       0x0000000549efd0c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001214.o)
+ .idata$4       0x0000000549efd0c8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001750.o)
+ .idata$4       0x0000000549efd0d0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000000.o)
+ .idata$4       0x0000000549efd0d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+ .idata$4       0x0000000549efd0d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000123.o)
+ .idata$4       0x0000000549efd0e0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d000000.o)
+ .idata$4       0x0000000549efd0e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+ .idata$4       0x0000000549efd0e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+ .idata$4       0x0000000549efd0f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+ .idata$4       0x0000000549efd0f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+ .idata$4       0x0000000549efd100        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+ .idata$4       0x0000000549efd108        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+ .idata$4       0x0000000549efd110        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+ .idata$4       0x0000000549efd118        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+ .idata$4       0x0000000549efd120        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+ .idata$4       0x0000000549efd128        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+ .idata$4       0x0000000549efd130        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+ .idata$4       0x0000000549efd138        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+ .idata$4       0x0000000549efd140        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+ .idata$4       0x0000000549efd148        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+ .idata$4       0x0000000549efd150        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+ .idata$4       0x0000000549efd158        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+ .idata$4       0x0000000549efd160        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+ .idata$4       0x0000000549efd168        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+ .idata$4       0x0000000549efd170        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+ .idata$4       0x0000000549efd178        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+ .idata$4       0x0000000549efd180        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+ .idata$4       0x0000000549efd188        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006682.o)
+ .idata$4       0x0000000549efd190        0x0 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+ .idata$4       0x0000000549efd190        0x8 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+ .idata$4       0x0000000549efd198        0x8 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+                0x0000000549efd1a0                __IAT_start__ = .
+ SORT_BY_NAME(*)(.idata$5)
+ .idata$5       0x0000000549efd1a0        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000000.o)
+ .idata$5       0x0000000549efd1a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o)
+                0x0000000549efd1a0                __imp___cxa_atexit
+ .idata$5       0x0000000549efd1a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000096.o)
+                0x0000000549efd1a8                __imp___wrap__ZdlPv
+ .idata$5       0x0000000549efd1b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000100.o)
+                0x0000000549efd1b0                __imp___wrap__Znwm
+ .idata$5       0x0000000549efd1b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+                0x0000000549efd1b8                __imp__impure_ptr
+ .idata$5       0x0000000549efd1c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000260.o)
+                0x0000000549efd1c0                __imp_calloc
+ .idata$5       0x0000000549efd1c8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000381.o)
+                0x0000000549efd1c8                __imp_cygwin_detach_dll
+ .idata$5       0x0000000549efd1d0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000383.o)
+                0x0000000549efd1d0                __imp_cygwin_internal
+ .idata$5       0x0000000549efd1d8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000411.o)
+                0x0000000549efd1d8                __imp_dll_dllcrt0
+ .idata$5       0x0000000549efd1e0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000587.o)
+                0x0000000549efd1e0                __imp_free
+ .idata$5       0x0000000549efd1e8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000917.o)
+                0x0000000549efd1e8                __imp_malloc
+ .idata$5       0x0000000549efd1f0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001029.o)
+                0x0000000549efd1f0                __imp_posix_memalign
+ .idata$5       0x0000000549efd1f8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001214.o)
+                0x0000000549efd1f8                __imp_realloc
+ .idata$5       0x0000000549efd200        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001750.o)
+ .idata$5       0x0000000549efd208        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000000.o)
+ .idata$5       0x0000000549efd208        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+                0x0000000549efd208                __imp__Unwind_Resume
+ .idata$5       0x0000000549efd210        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000123.o)
+ .idata$5       0x0000000549efd218        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d000000.o)
+ .idata$5       0x0000000549efd218        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+                0x0000000549efd218                __imp__ZNSolsEPFRSoS_E
+ .idata$5       0x0000000549efd220        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+                0x0000000549efd220                __imp__ZNSsC1ERKSs
+ .idata$5       0x0000000549efd228        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+                0x0000000549efd228                __imp__ZNSsC1Ev
+ .idata$5       0x0000000549efd230        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+                0x0000000549efd230                __imp__ZNSsD1Ev
+ .idata$5       0x0000000549efd238        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+                0x0000000549efd238                __imp__ZNSsaSERKSs
+ .idata$5       0x0000000549efd240        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+                0x0000000549efd240                __imp__ZNSt8ios_base4InitC1Ev
+ .idata$5       0x0000000549efd248        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+                0x0000000549efd248                __imp__ZNSt8ios_base4InitD1Ev
+ .idata$5       0x0000000549efd250        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+                0x0000000549efd250                __imp__ZSt17__throw_bad_allocv
+ .idata$5       0x0000000549efd258        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+                0x0000000549efd258                __imp__ZSt20__throw_length_errorPKc
+ .idata$5       0x0000000549efd260        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+                0x0000000549efd260                __imp__ZSt28__throw_bad_array_new_lengthv
+ .idata$5       0x0000000549efd268        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+                0x0000000549efd268                __imp__ZSt4cout
+                0x0000000549efd268                __imp__ZSt4cout
+ .idata$5       0x0000000549efd270        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+                0x0000000549efd270                __imp__ZSt4endlIcSt11char_traitsIcEERSt13basic_ostreamIT_T0_ES6_
+ .idata$5       0x0000000549efd278        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+                0x0000000549efd278                __imp__ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc
+ .idata$5       0x0000000549efd280        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+                0x0000000549efd280                __imp__ZStlsIcSt11char_traitsIcESaIcEERSt13basic_ostreamIT_T0_ES7_RKSbIS4_S5_T1_E
+ .idata$5       0x0000000549efd288        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+                0x0000000549efd288                __imp__ZTVN10__cxxabiv117__class_type_infoE
+                0x0000000549efd288                __imp__ZTVN10__cxxabiv117__class_type_infoE
+ .idata$5       0x0000000549efd290        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+                0x0000000549efd290                __imp__ZdlPv
+ .idata$5       0x0000000549efd298        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+                0x0000000549efd298                __imp__Znwm
+ .idata$5       0x0000000549efd2a0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+                0x0000000549efd2a0                __imp___cxa_begin_catch
+ .idata$5       0x0000000549efd2a8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+                0x0000000549efd2a8                __imp___cxa_end_catch
+ .idata$5       0x0000000549efd2b0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+                0x0000000549efd2b0                __imp___cxa_rethrow
+ .idata$5       0x0000000549efd2b8        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+                0x0000000549efd2b8                __imp___gxx_personality_seh0
+ .idata$5       0x0000000549efd2c0        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006682.o)
+ .idata$5       0x0000000549efd2c8        0x0 /usr/lib/w32api/libkernel32.a(libkernel32h.o)
+ .idata$5       0x0000000549efd2c8        0x8 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+                0x0000000549efd2c8                __imp_GetModuleHandleA
+ .idata$5       0x0000000549efd2d0        0x8 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+                0x0000000549efd2d8                __IAT_end__ = .
+ SORT_BY_NAME(*)(.idata$6)
+ .idata$6       0x0000000549efd2d8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o)
+ .idata$6       0x0000000549efd2e8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000096.o)
+ .idata$6       0x0000000549efd2f8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000100.o)
+ .idata$6       0x0000000549efd308       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+                0x0000000549efd308                __nm__impure_ptr
+ .idata$6       0x0000000549efd318        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000260.o)
+ .idata$6       0x0000000549efd324       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000381.o)
+ .idata$6       0x0000000549efd338       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000383.o)
+ .idata$6       0x0000000549efd34c       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000411.o)
+ .idata$6       0x0000000549efd35c        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000587.o)
+ .idata$6       0x0000000549efd364        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000917.o)
+ .idata$6       0x0000000549efd370       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001029.o)
+ .idata$6       0x0000000549efd384        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001214.o)
+ .idata$6       0x0000000549efd390       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+ .idata$6       0x0000000549efd3a4       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+ .idata$6       0x0000000549efd3b8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+ .idata$6       0x0000000549efd3c8        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+ .idata$6       0x0000000549efd3d4        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+ .idata$6       0x0000000549efd3e0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+ .idata$6       0x0000000549efd3f0       0x1c /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+ .idata$6       0x0000000549efd40c       0x1c /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+ .idata$6       0x0000000549efd428       0x1c /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+ .idata$6       0x0000000549efd444       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+ .idata$6       0x0000000549efd464       0x28 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+ .idata$6       0x0000000549efd48c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+                0x0000000549efd48c                __nm__ZSt4cout
+ .idata$6       0x0000000549efd498       0x40 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+ .idata$6       0x0000000549efd4d8       0x3c /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+ .idata$6       0x0000000549efd514       0x50 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+ .idata$6       0x0000000549efd564       0x28 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+                0x0000000549efd564                __nm__ZTVN10__cxxabiv117__class_type_infoE
+ .idata$6       0x0000000549efd58c        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+ .idata$6       0x0000000549efd598        0x8 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+ .idata$6       0x0000000549efd5a0       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+ .idata$6       0x0000000549efd5b4       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+ .idata$6       0x0000000549efd5c8       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+ .idata$6       0x0000000549efd5d8       0x1c /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+ .idata$6       0x0000000549efd5f4       0x14 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+ SORT_BY_NAME(*)(.idata$7)
+ .idata$7       0x0000000549efd608        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000017.o)
+ .idata$7       0x0000000549efd60c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000096.o)
+ .idata$7       0x0000000549efd610        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000100.o)
+ .idata$7       0x0000000549efd614        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000117.o)
+ .idata$7       0x0000000549efd618        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000260.o)
+ .idata$7       0x0000000549efd61c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000381.o)
+ .idata$7       0x0000000549efd620        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000383.o)
+ .idata$7       0x0000000549efd624        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000411.o)
+ .idata$7       0x0000000549efd628        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000587.o)
+ .idata$7       0x0000000549efd62c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d000917.o)
+ .idata$7       0x0000000549efd630        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001029.o)
+ .idata$7       0x0000000549efd634        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001214.o)
+ .idata$7       0x0000000549efd638        0xc /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin1_dll_d001750.o)
+                0x0000000549efd638                cygwin1_dll_iname
+ .idata$7       0x0000000549efd644        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000015.o)
+ .idata$7       0x0000000549efd648       0x14 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc_s.dll.a(cyggcc_s_seh_1_dll_d000123.o)
+                0x0000000549efd648                cyggcc_s_seh_1_dll_iname
+ .idata$7       0x0000000549efd65c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d001892.o)
+ .idata$7       0x0000000549efd660        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002010.o)
+ .idata$7       0x0000000549efd664        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002017.o)
+ .idata$7       0x0000000549efd668        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002039.o)
+ .idata$7       0x0000000549efd66c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d002043.o)
+ .idata$7       0x0000000549efd670        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005141.o)
+ .idata$7       0x0000000549efd674        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005143.o)
+ .idata$7       0x0000000549efd678        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005394.o)
+ .idata$7       0x0000000549efd67c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005417.o)
+ .idata$7       0x0000000549efd680        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005438.o)
+ .idata$7       0x0000000549efd684        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005445.o)
+ .idata$7       0x0000000549efd688        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005446.o)
+ .idata$7       0x0000000549efd68c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005567.o)
+ .idata$7       0x0000000549efd690        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d005579.o)
+ .idata$7       0x0000000549efd694        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006313.o)
+ .idata$7       0x0000000549efd698        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006619.o)
+ .idata$7       0x0000000549efd69c        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006629.o)
+ .idata$7       0x0000000549efd6a0        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006639.o)
+ .idata$7       0x0000000549efd6a4        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006645.o)
+ .idata$7       0x0000000549efd6a8        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006656.o)
+ .idata$7       0x0000000549efd6ac        0x4 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006678.o)
+ .idata$7       0x0000000549efd6b0       0x10 /usr/lib/gcc/x86_64-pc-cygwin/11/libstdc++.dll.a(cygstdc___6_dll_d006682.o)
+                0x0000000549efd6b0                cygstdc___6_dll_iname
+ .idata$7       0x0000000549efd6c0        0x4 /usr/lib/w32api/libkernel32.a(libkernel32s00648.o)
+ .idata$7       0x0000000549efd6c4       0x10 /usr/lib/w32api/libkernel32.a(libkernel32t.o)
+                0x0000000549efd6c4                __lib64_libkernel32_a_iname
+
+.CRT            0x0000000549efe000        0x0
+                0x0000000549efe000                ___crt_xc_start__ = .
+ *(SORT_BY_NAME(.CRT$XC*))
+                0x0000000549efe000                ___crt_xc_end__ = .
+                0x0000000549efe000                ___crt_xi_start__ = .
+ *(SORT_BY_NAME(.CRT$XI*))
+                0x0000000549efe000                ___crt_xi_end__ = .
+                0x0000000549efe000                ___crt_xl_start__ = .
+ *(SORT_BY_NAME(.CRT$XL*))
+                0x0000000549efe000                ___crt_xp_start__ = .
+ *(SORT_BY_NAME(.CRT$XP*))
+                0x0000000549efe000                ___crt_xp_end__ = .
+                0x0000000549efe000                ___crt_xt_start__ = .
+ *(SORT_BY_NAME(.CRT$XT*))
+                0x0000000549efe000                ___crt_xt_end__ = .
+
+.tls            0x0000000549efe000        0x0
+                0x0000000549efe000                ___tls_start__ = .
+ *(.tls$AAA)
+ *(.tls)
+ *(.tls$)
+ *(SORT_BY_NAME(.tls$*))
+ *(.tls$ZZZ)
+                0x0000000549efe000                ___tls_end__ = .
+
+.endjunk        0x0000000549efe000        0x0
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000549efe000                __end__ = .
+
+.rsrc
+ *(.rsrc)
+ *(.rsrc$*)
+
+.reloc          0x0000000549efe000      0x200
+ *(.reloc)
+ .reloc         0x0000000549efe000       0x3c dll stuff
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges  0x0000000549eff000      0x200
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000549eff000       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_aranges
+                0x0000000549eff030       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_aranges
+                0x0000000549eff060       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_aranges
+                0x0000000549eff090       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_aranges
+                0x0000000549eff0c0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_aranges
+                0x0000000549eff0f0       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_aranges
+                0x0000000549eff120       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_aranges
+                0x0000000549eff150       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_aranges
+                0x0000000549eff180       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_aranges
+                0x0000000549eff1b0       0x20 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_aranges
+ *(.zdebug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.zdebug_pubnames
+ *(.zdebug_pubnames)
+
+.debug_info     0x0000000549f00000     0x5600
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000549f00000      0x850 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_info    0x0000000549f00850      0x32f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_info    0x0000000549f00b7f     0x1172 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_info    0x0000000549f01cf1     0x23ae /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_info    0x0000000549f0409f      0x15f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_info    0x0000000549f041fe      0x15f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_info    0x0000000549f0435d      0x15f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_info    0x0000000549f044bc      0x15f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_info    0x0000000549f0461b      0x12f /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_info    0x0000000549f0474a      0xd8c /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_info
+ *(.zdebug_info .zdebug.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000549f06000      0xc00
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000549f06000      0x1ae /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_abbrev  0x0000000549f061ae       0x93 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_abbrev  0x0000000549f06241      0x224 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_abbrev  0x0000000549f06465      0x3d2 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_abbrev  0x0000000549f06837       0x56 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_abbrev  0x0000000549f0688d       0x56 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_abbrev  0x0000000549f068e3       0x56 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_abbrev  0x0000000549f06939       0x56 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_abbrev  0x0000000549f0698f       0x2b /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_abbrev  0x0000000549f069ba       0x9b /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_abbrev
+ *(.zdebug_abbrev)
+
+.debug_line     0x0000000549f07000      0x800
+ *(.debug_line)
+ .debug_line    0x0000000549f07000       0xe2 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_line    0x0000000549f070e2       0x65 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_line    0x0000000549f07147       0xba /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_line    0x0000000549f07201      0x396 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_line    0x0000000549f07597       0x53 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_line    0x0000000549f075ea       0x53 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_line    0x0000000549f0763d       0x53 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_line    0x0000000549f07690       0x53 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_line    0x0000000549f076e3       0x54 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_line    0x0000000549f07737       0x48 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_line
+ *(.zdebug_line)
+
+.debug_frame    0x0000000549f08000      0x400
+ *(.debug_frame*)
+ .debug_frame   0x0000000549f08000       0x80 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_frame   0x0000000549f08080       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_frame   0x0000000549f080b0       0x60 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_frame   0x0000000549f08110       0x68 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_frame   0x0000000549f08178       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_frame   0x0000000549f081a8       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_frame   0x0000000549f081d8       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_frame   0x0000000549f08208       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_frame   0x0000000549f08238       0x30 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+
+.zdebug_frame
+ *(.zdebug_frame*)
+
+.debug_str      0x0000000549f09000      0x200
+ *(.debug_str)
+ .debug_str     0x0000000549f09000        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_str     0x0000000549f09000        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_str     0x0000000549f09000        0xe /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_str     0x0000000549f0900e       0x67 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_str     0x0000000549f09075        0x0 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_str
+ *(.zdebug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.zdebug_loc
+ *(.zdebug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.zdebug_macinfo
+ *(.zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.zdebug_weaknames
+ *(.zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.zdebug_funcnames
+ *(.zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.zdebug_typenames
+ *(.zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.zdebug_varnames
+ *(.zdebug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.zdebug_pubtypes
+ *(.zdebug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.zdebug_ranges
+ *(.zdebug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+
+.zdebug_types
+ *(.zdebug_types .gnu.linkonce.wt.*)
+
+.debug_addr
+ *(.debug_addr)
+
+.zdebug_addr
+ *(.zdebug_addr)
+
+.debug_line_str
+                0x0000000549f0a000     0x1000
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000549f0a000      0x13c /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_line_str
+                0x0000000549f0a13c      0x11e /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_main.o)
+ .debug_line_str
+                0x0000000549f0a25a      0x265 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_line_str
+                0x0000000549f0a4bf      0x3fb /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+ .debug_line_str
+                0x0000000549f0a8ba       0xfb /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain0.o)
+ .debug_line_str
+                0x0000000549f0a9b5       0xfb /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain1.o)
+ .debug_line_str
+                0x0000000549f0aab0       0xfb /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain2.o)
+ .debug_line_str
+                0x0000000549f0abab       0xfb /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(premain3.o)
+ .debug_line_str
+                0x0000000549f0aca6      0x119 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(pseudo-reloc-dummy.o)
+ .debug_line_str
+                0x0000000549f0adbf      0x115 /usr/lib/gcc/x86_64-pc-cygwin/11/libgcc.a(_ctors.o)
+
+.zdebug_line_str
+ *(.zdebug_line_str)
+
+.debug_loclists
+                0x0000000549f0b000      0x400
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000549f0b000      0x157 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(dll_entry.o)
+ .debug_loclists
+                0x0000000549f0b157       0x45 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(cygwin_attach_dll.o)
+ .debug_loclists
+                0x0000000549f0b19c       0xb6 /usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/libcygwin.a(_cygwin_crt0_common.o)
+
+.zdebug_loclists
+ *(.zdebug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.zdebug_macro
+ *(.zdebug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.zdebug_names
+ *(.zdebug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.zdebug_rnglists
+ *(.zdebug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.zdebug_str_offsets
+ *(.zdebug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.debug_gdb_scripts
+ *(.debug_gdb_scripts)
+
+.zdebug_gdb_scripts
+ *(.zdebug_gdb_scripts)
+OUTPUT(Object.dll pei-x86-64)
+LOAD Object_dll_rtr000000.o
+LOAD Object_dll_ertr000001.o
+LOAD Object_dll_rtr000002.o
+LOAD dll stuff

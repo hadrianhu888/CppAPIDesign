@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\ObjectHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\Object.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\ObjectHolder.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\ObjectTaker.def">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\GitHubRepos\CppAPIDesign\Chapter2\ObjectHolder\src\main.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{22E6B56D-7B32-3B25-A45A-0F2C11B4FE53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

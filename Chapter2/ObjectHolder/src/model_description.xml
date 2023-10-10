@@ -1,0 +1,30 @@
+<?xlml version = "1.0" encoding = "UTF-8"?>
+<fmiModelDescription
+    fmiVersion = "2.0"
+    modelName = "ObjectHolder"
+    guid = "00000000-0000-0000-0000-000000000000"
+    description = "A model description for the ObjectHolder model"
+    generationTool = "ObjectHolder.fmu"
+    generationDateAndTime = "2016-06-01T00:00:00Z"
+    variableNamingConvention = "flat"
+    numberOfContinuousStates = "0"
+    numberOfEventIndicators = "0">
+    <ModelVariables>
+        <ScalarVariable
+            name = "object"
+            valueReference = "1"
+            description = "The object to be held"
+            variability = "continuous"
+            causality = "input"
+            initial = "exact"
+            type = "Object" />
+    </ModelVariables>
+    <ModelStructure>
+        <Outputs>
+            <Unknown
+                index = "1"
+                dependencies = "1" />
+        </Outputs>
+    </ModelStructure>
+</fmiModelDescription>
+

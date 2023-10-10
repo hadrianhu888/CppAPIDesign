@@ -1,0 +1,10 @@
+^E:\GITHUBREPOS\CPPAPIDESIGN\CHAPTER2\MYCUSTOMOBJECT\SRC\CMAKEFILES\7C7ADBB2A28466CD4F9DB60D1F3F39AC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/GitHubRepos/CppAPIDesign/Chapter2/MyCustomObject/src -BE:/GitHubRepos/CppAPIDesign/Chapter2/MyCustomObject/src --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/GitHubRepos/CppAPIDesign/Chapter2/MyCustomObject/src/MyCustomObject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

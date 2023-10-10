@@ -1,0 +1,9 @@
+/CMakeFiles
+/lib
+/obj
+/bin
+/Debug
+/*.dir
+/output
+/x*
+/vs

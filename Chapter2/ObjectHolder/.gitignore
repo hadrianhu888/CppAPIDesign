@@ -13,7 +13,8 @@
 *.exe
 *.sln
 !CMakeLists.txt
+!Makefile
+!/src
+!/src/*
+!build.bat
 /build
-/e:/GitHubRepos/CppAPIDesign/Chapter2/ChatLog/CMakeFiles
-/log_* 
-/log_* 
