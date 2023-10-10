@@ -1,0 +1,11 @@
+/build
+/bin
+/obj
+/packages
+/lib
+/CMakeFiles
+/*.user
+/*.suo
+/x*
+/*.dir
+/vs
