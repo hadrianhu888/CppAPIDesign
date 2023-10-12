@@ -15,5 +15,7 @@
 !CMakeLists.txt
 /build
 /e:/GitHubRepos/CppAPIDesign/Chapter2/ChatLog/CMakeFiles
-/log_* 
-/log_* 
+/log_*
+/log_*
+/e:/GitHubRepos/CppAPIDesign/Chapter2/Module/src/x64/Debug
+/e:/GitHubRepos/CppAPIDesign/Chapter2/Module/src/CMakeFiles
