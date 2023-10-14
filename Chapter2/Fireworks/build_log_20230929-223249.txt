@@ -1,4 +1,0 @@
-g++ -Wl,-Map=output.map -o fireworks_main.exe fireworks_main.o fireparticle.o fireworks.o
-/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: fireworks.o:fireworks.cpp:(.text.startup+0x0): multiple definition of `main'; fireworks_main.o:fireworks_main:(.text.startup+0x0): first defined here
-collect2: error: ld returned 1 exit status
-make: *** [Makefile:31: fireworks_main.exe] Error 1

@@ -1,0 +1,9 @@
+/.dist
+/build
+/dist
+/CMakeFiles
+/*.dir
+/Debug
+/Release
+/vs
+/x*

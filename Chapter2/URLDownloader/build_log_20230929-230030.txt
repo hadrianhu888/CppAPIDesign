@@ -1,7 +1,0 @@
-g++ -shared -Wl,--output-def,liburldownloader.def,--out-implib,liburldownloader.a,--export-all-symbols -lws2_32 -lws2_32 main.o URLDownloader.o -o urldownloader.dll -Wl,-Map,urldownloader.map
-/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: URLDownloader.o:URLDownloader.:(.text+0xe6): undefined reference to `__imp_WSAStartup'
-/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: URLDownloader.o:URLDownloader.:(.text+0x164): undefined reference to `__imp_WSACleanup'
-/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: URLDownloader.o:URLDownloader.:(.text+0x201): undefined reference to `__imp_closesocket'
-/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../x86_64-pc-cygwin/bin/ld: URLDownloader.o:URLDownloader.:(.text+0x255): undefined reference to `__imp_WSACleanup'
-collect2: error: ld returned 1 exit status
-make: *** [Makefile:20: urldownloader.dll] Error 1

@@ -1,0 +1,3 @@
+[submodule "APIBook"]
+	path = APIBook
+	url = https://github.com/LiveMirror/APIBook.git
