@@ -13,6 +13,27 @@
 #include "singleton.h"
 #include <iostream>
 #include <memory>
+#include <string>
+#include <utility>
+
+using namespace std;
+
+#include <iostream>
+#include <memory>
+#include <string>
+#include <utility>
+
+using namespace std;
+
+#include <iostream>
+#include <memory>
+#include <string>
+#include <utility>
+
+using namespace std;
+
+string str = "Hello World";
+int num = 10;
 
 int main(int argc, char **argv) {
   Singleton &s1 = Singleton::getInstance();

@@ -17,12 +17,13 @@ public:
   Singleton &operator=(const Singleton &);
   Singleton &operator=(Singleton &&);
   ~Singleton();
+  static Singleton getInstance(std::string str);
+  static Singleton getInstance(int num);
 
 private:
   Singleton() {}
 };
 
 #endif // SINGLETON_H
-
 
 #endif /* B510245A_5754_4891_B1D4_CC951AE737AA */

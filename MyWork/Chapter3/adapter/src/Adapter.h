@@ -26,6 +26,8 @@ public:
   Adapter &operator=(Adapter &&);
   ~Adapter();
   Adapter getInstance();
+  Adapter getInstance(std::string str);
+  Adapter getInstance(int num);
 
 private:
   Singleton *m_pSingleton;

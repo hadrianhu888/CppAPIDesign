@@ -20,4 +20,14 @@ void Singleton::print() { std::cout << "Singleton::print()" << std::endl; }
 
 Singleton &Singleton::operator=(Singleton &&) { return *this; }
 
+Singleton Singleton::getInstance(std::string str) {
+  static Singleton instance;
+  return instance;
+}
+
+Singleton Singleton::getInstance(int num) {
+  static Singleton instance;
+  return instance;
+}
+
 // Path: MyWork/Chapter3/singleton/src/main.cpp

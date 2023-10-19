@@ -31,3 +31,13 @@ Adapter::~Adapter() {
   instance = nullptr;
   delete instance;
 }
+
+Adapter Adapter::getInstance(std::string str) {
+  static Adapter instance;
+  return instance;
+}
+
+Adapter Adapter::getInstance(int num) {
+  static Adapter instance;
+  return instance;
+}
