@@ -21,6 +21,3 @@
 /Release
 /*.dir
 /x*
-/vs
-/history
-/bin
