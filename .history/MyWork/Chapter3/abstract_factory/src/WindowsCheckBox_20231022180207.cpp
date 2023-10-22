@@ -1,0 +1,19 @@
+#include "WindowsCheckBox.h"
+#include <iostream>
+
+void WindowsCheckBox::check() { std::cout << "Windows CheckBox checked.\n"; }
+
+void WindowsCheckBox::paint() { std::cout << "Windows CheckBox painted.\n"; }
+
+void WindowsCheckBox::setColor(const std::string &color) {
+  std::cout << "Windows CheckBox color changed to " << color << ".\n";
+}
+
+void WindowsCheckBox::setFont(const std::string &font) {
+  std::cout << "Windows CheckBox font changed to " << font << ".\n";
+}
+
+void WindowsCheckBox::setText(const std::string &text) {
+  std::cout << "Windows CheckBox text changed to " << text << ".\n";
+}
+

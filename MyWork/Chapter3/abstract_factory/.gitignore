@@ -14,8 +14,11 @@
 *.sln
 !CMakeLists.txt
 /build
-/e:/GitHubRepos/CppAPIDesign/Chapter2/ChatLog/CMakeFiles
+/CMakeFiles
 /log_*
 /log_*
-
-.fake
+/Debug
+/Release
+/*.dir
+/x*
+/vs
