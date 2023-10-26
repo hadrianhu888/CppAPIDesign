@@ -7,16 +7,16 @@ CXXFLAGS = $(CFLAGS)
 EXE = main.exe
 
 # Dynamic Link Library
-DLL = AutoTimer.dll
+DLL = Singleton.dll
 
 # Library Def file
-DEF = AutoTimer.def
+DEF = Singleton.def
 
 # Static Library
-LIB = AutoTimer.lib
+LIB = Singleton.lib
 
 # Map File
-MAP = AutoTimer.map
+MAP = Singleton.map
 
 # Source files
 C_HEADERS = $(wildcard src/*.h)

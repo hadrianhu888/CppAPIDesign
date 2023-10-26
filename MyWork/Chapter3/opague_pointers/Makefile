@@ -7,16 +7,16 @@ CXXFLAGS = $(CFLAGS)
 EXE = main.exe
 
 # Dynamic Link Library
-DLL = AutoTimer.dll
+DLL = OPointers.dll
 
 # Library Def file
-DEF = AutoTimer.def
+DEF = OPointers.def
 
 # Static Library
-LIB = AutoTimer.lib
+LIB = OPointers.lib
 
 # Map File
-MAP = AutoTimer.map
+MAP = OPointers.map
 
 # Source files
 C_HEADERS = $(wildcard src/*.h)

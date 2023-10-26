@@ -7,16 +7,16 @@ CXXFLAGS = $(CFLAGS)
 EXE = main.exe
 
 # Dynamic Link Library
-DLL = AutoTimer.dll
+DLL = Pimpl.dll
 
 # Library Def file
-DEF = AutoTimer.def
+DEF = Pimpl.def
 
 # Static Library
-LIB = AutoTimer.lib
+LIB = Pimpl.lib
 
 # Map File
-MAP = AutoTimer.map
+MAP = Pimpl.map
 
 # Source files
 C_HEADERS = $(wildcard src/*.h)

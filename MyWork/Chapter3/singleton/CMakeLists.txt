@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Set the project name
-project(AutoTimer)
+project(Singleton)
 
 # Add source files
 file(GLOB SOURCES "src/*.c" "src/*.cpp")
@@ -11,16 +11,16 @@ file(GLOB HEADERS "src/*.h" "src/*.hpp")
 add_executable(MyProgram ${SOURCES})
 
 # Build DLL
-add_library(AutoTimer SHARED ${SOURCES})
+add_library(Singleton SHARED ${SOURCES})
 
 # Generate DEF file
-set_target_properties(AutoTimer PROPERTIES
+set_target_properties(Singleton PROPERTIES
     WINDOWS_EXPORT_ALL_SYMBOLS TRUE
     OUTPUT_NAME "my_library"
 )
 
 # Generate LIB file
-set_target_properties(AutoTimer PROPERTIES
+set_target_properties(Singleton PROPERTIES
     ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}
 )
 
@@ -37,6 +37,6 @@ file(WRITE clean-all.cmake "
 file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/CMakeCache.txt)
 file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/CMakeFiles)
 file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/MyProgram)
-file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/AutoTimer)
+file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/Singleton)
 file(REMOVE_RECURSE ${CMAKE_BINARY_DIR}/output.map)
 ")
