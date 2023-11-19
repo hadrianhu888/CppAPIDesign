@@ -11,7 +11,7 @@ file(GLOB HEADERS "src/*.h" "src/*.hpp")
 add_executable(MyProgram ${SOURCES})
 
 # Build DLL
-add_library(Observer SHARED ${SOURCES})
+# add_library(Observer SHARED ${SOURCES})
 
 # Generate DEF file
 set_target_properties(Observer PROPERTIES
