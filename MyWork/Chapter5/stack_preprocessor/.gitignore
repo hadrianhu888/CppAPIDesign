@@ -1,0 +1,20 @@
+
+# Build outputs
+*.o
+*.a
+*.so
+*.exe
+/CMakeFiles
+/*.dir
+/x64
+*.vcxproj
+*.filters
+*Cache.txt
+ *.sln
+ *.cmake 
+# Makefile and CMakeLists.txt build outputs
+!Makefile
+!CMakeLists.txt
+!build.bat
+!/tests
+!/src
