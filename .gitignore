@@ -21,3 +21,4 @@
 .fake
 /.history
 /*.vcxproj.filters
+cmake_install.cmake
